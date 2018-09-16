@@ -94,8 +94,10 @@
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1534469732265">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1537119145901">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
@@ -114,8 +116,8 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1533002710074">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1534469471706">
-        <mark key="[" line="2" column="21" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1537119140440">
+        <mark key="[" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/github/webcrawler/README.md" timestamp="1508202074414">
         <mark key="[" line="0" column="0" />
@@ -164,8 +166,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>File resumeFile</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICBMaXN0PFN0cmluZz4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgbGlzdC5hZGQoInRoYXQiKTsKICAgIGxpc3QuYWRkKCJ0aGlzIik7CiAgICBMaXN0PFN0cmluZz4gb3RoZXJMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICBvdGhlckxpc3QuYWRkKCJCbHVlIik7CiAgICBvdGhlckxpc3QuYWRkKCJSZWQiKTsKICAgIE1hcDxTdHJpbmcsIExpc3Q8U3RyaW5nPj4gdG9vbCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIHRvb2wucHV0KCJQcm9ncmFtbWluZy9TY3JpcHRpbmcgTGFuZ3VhZ2VzIiwgbGlzdCk7CiAgICB0b29sLnB1dCgiRGV2ZWxvcG1lbnQgdG9vbHMiLCBvdGhlckxpc3QpOwogICAgVGVjaG5pY2FsIHQgPSBuZXcgVGVjaG5pY2FsKCk7CiAgICB0LnNldFRvb2wodG9vbCk7CiAgICBUZWNobmljYWxTZWN0aW9uIHRzID0gbmV3IFRlY2huaWNhbFNlY3Rpb24oKTsKICAgIHRzLnNldFRvb2xzKEFycmF5cy5hc0xpc3QodCkpOw==</text>
@@ -195,7 +197,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>Set</text>
+        <text>File resumeFile</text>
       </register>
     </registers>
     <search>
