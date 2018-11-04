@@ -8,8 +8,8 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1532388509271">
-        <mark key="[" line="2" column="34" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
+        <mark key="[" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/github/resume/John_Van_Note_Resume.tex" timestamp="1541364091511">
         <mark key="[" line="62" column="119" />
@@ -56,9 +56,9 @@
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541368944065">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541369186709" />
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1532915114472">
@@ -94,10 +94,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/PersonalSection.java" timestamp="1541369258533">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/PersonalSection.java" timestamp="1541370042146">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541368664559">
         <mark key="[" line="0" column="43" />
@@ -105,10 +105,10 @@
       <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1532314495489">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1541369995745">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1541366243573">
         <mark key="[" line="1" column="23" />
@@ -192,13 +192,19 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBATwogIGRlZmF1bHQgU3RyaW5nIHRvU3RyaW5nKCkgewoKICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>MoreObjects.toStringHelper(this)
         .add(&quot;firstName&quot;, firstName)
         .add(&quot;lastName&quot;, lastName)
@@ -209,26 +215,20 @@
         .omitNullValues()
         .toString();</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qdm4uUGVyc29uYWw7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIC8qCiAgICByZXR1cm4gTW9yZU9iamVjdHMudG9TdHJpbmdIZWxwZXIodGhpcykKICAgICAgICAuYWRkKCJwZXJzb25hbFNlY3Rpb24iLCBwZXJzb25hbFNlY3Rpb24pCiAgICAgICAgLmFkZCgiZXhwZXJpZW5jZXNTZWN0aW9uIiwgZXhwZXJpZW5jZVNlY3Rpb24pCiAgICAgICAgLmFkZCgiZWR1Y2F0aW9uU2VjdGlvbiIsIGVkdWNhdGlvblNlY3Rpb24pCiAgICAgICAgLmFkZCgidGVjaG5pY2FsU2VjdGlvbiIsIHRlY2huaWNhbFNlY3Rpb24pCiAgICAgICAgLnRvU3RyaW5nKCk7CiAgICAqLw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLlJlc3VtZS5UaGVtZTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBSZXN1bWUgciA9IG5ldyBSZXN1bWUoKTsKICAgIHIuc2V0VGhlbWUoVGhlbWUuQ0FTVUFMKTsKICAgIHhtbE1hcHBlci53cml0ZVZhbHVlKFN5c3RlbS5vdXQsIHIpOw==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLnByaW50ZXIuU2ltcGxlUHJpbnRlcjsK</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUT1BfQ09NTUVOVFMgPSAiJSUgc3RhcnQgb2YgZmlsZSAnSm9obl9WYW5fTm90ZV9SZXN1bWUudGV4Jy5cbiIKICAgICAgKyAiJSUgQ29weXJpZ2h0IDIwMDYtMjAxMyBYYXZpZXIgRGFuYXV4ICh4ZGFuYXV4QGdtYWlsLmNvbSkuXG4iCiAgICAgICsgIiUlXG4iCiAgICAgICsgIiUlIEpvaG4gVmFuIE5vdGVcbiIKICAgICAgKyAiJSUgMjAxNi0wMS0wOVxuIgogICAgICArICIlJVxuIgogICAgICArICIlJSBNeSByZXN1bWUgc291cmNlIGNvZGVcbiIKICAgICAgKyAiJSVcbiIKICAgICAgKyAiXG4iCiAgICAgICsgIiUgVGhpcyB3b3JrIG1heSBiZSBkaXN0cmlidXRlZCBhbmQvb3IgbW9kaWZpZWQgdW5kZXIgdGhlXG4iCiAgICAgICsgIiUgY29uZGl0aW9ucyBvZiB0aGUgTGFUZVggUHJvamVjdCBQdWJsaWMgTGljZW5zZSB2ZXJzaW9uIDEuM2MsXG4iCiAgICAgICsgIiUgYXZhaWxhYmxlIGF0IGh0dHA6Ly93d3cubGF0ZXgtcHJvamVjdC5vcmcvbHBwbC8uXG4iCiAgICAgICsgIlxuIgogICAgICArICIlIHBvc3NpYmxlIG9wdGlvbnMgaW5jbHVkZSBmb250IHNpemUgKCcxMHB0JywgJzExcHQnIGFuZCAnMTJwdCcpLCBwYXBlciBzaXplICgnYTRwYXBlcicsICdsZXR0ZXJwYXBlcicsICdhNXBhcGVyJywgJ2xlZ2FscGFwZXInLCAnZXhlY3V0aXZlcGFwZXInIGFuZCAnbGFuZHNjYXBlJykgYW5kIGZvbnQgZmFtaWx5ICgnc2FucycgYW5kICdyb21hbicpIjs=</text>
+        <text encoding="base64">ICBSZXN1bWUgciA9IG5ldyBSZXN1bWUoKTsKICAgIHIuc2V0VGhlbWUoVGhlbWUuQ0FTVUFMKTsKICAgIHhtbE1hcHBlci53cml0ZVZhbHVlKFN5c3RlbS5vdXQsIHIpOw==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
