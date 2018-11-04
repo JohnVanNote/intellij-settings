@@ -11,16 +11,6 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/github/resume/John_Van_Note_Resume.tex" timestamp="1541364091511">
-        <mark key="[" line="62" column="119" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541366102099">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1541365909590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,9 +18,6 @@
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
         <mark key="." line="14" column="16" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/SingleDateRange.java" timestamp="1532916304866">
         <mark key="[" line="4" column="13" />
@@ -42,6 +29,80 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1541366243573">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="111" column="2" />
+        <mark key="." line="111" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
+        <mark key="[" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1541367902588" />
+      <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1532315669408">
+        <mark key="[" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1533002710074">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1537135232224">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1533396395440">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Technical.java" timestamp="1534215048119">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/John_Van_Note_Resume.tex" timestamp="1541364091511">
+        <mark key="[" line="62" column="119" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541370772581">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/FileUtil.java" timestamp="1541374258170">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1541366462872">
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="26" />
@@ -51,9 +112,6 @@
         <mark key="[" line="27" column="9" />
         <mark key="]" line="27" column="9" />
         <mark key="." line="27" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
-        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541368944065">
         <mark key="[" line="15" column="0" />
@@ -79,9 +137,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1539452043141">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,76 +157,29 @@
       <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541368664559">
         <mark key="[" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1541369995745">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1541366243573">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="111" column="2" />
-        <mark key="." line="111" column="2" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
-        <mark key="[" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1537751049890">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1541367902588" />
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1532315669408">
-        <mark key="[" line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
-        <mark key="[" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1541367762589">
         <mark key="[" line="35" column="16" />
         <mark key="]" line="45" column="1" />
         <mark key="." line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1533002710074">
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1537135232224">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/github/webcrawler/README.md" timestamp="1508202074414">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/busted-brackets/src/main/java/org/jvn/bracketology/Team.java" timestamp="1519956531267">
         <mark key="[" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1533396395440">
-        <mark key="[" line="26" column="49" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Technical.java" timestamp="1534215048119">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/busted-brackets/pom.xml" timestamp="1519487263725">
         <mark key="[" line="6" column="13" />
@@ -181,9 +189,6 @@
       <file name="$USER_HOME$/IdeaProjects/septa/philly_loc.py" timestamp="1523221963594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
-        <mark key="[" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Tool.java" timestamp="1534292220398">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
@@ -192,19 +197,22 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICBATwogIGRlZmF1bHQgU3RyaW5nIHRvU3RyaW5nKCkgewoKICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>MoreObjects.toStringHelper(this)
         .add(&quot;firstName&quot;, firstName)
         .add(&quot;lastName&quot;, lastName)
@@ -215,26 +223,23 @@
         .omitNullValues()
         .toString();</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qdm4uUGVyc29uYWw7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIC8qCiAgICByZXR1cm4gTW9yZU9iamVjdHMudG9TdHJpbmdIZWxwZXIodGhpcykKICAgICAgICAuYWRkKCJwZXJzb25hbFNlY3Rpb24iLCBwZXJzb25hbFNlY3Rpb24pCiAgICAgICAgLmFkZCgiZXhwZXJpZW5jZXNTZWN0aW9uIiwgZXhwZXJpZW5jZVNlY3Rpb24pCiAgICAgICAgLmFkZCgiZWR1Y2F0aW9uU2VjdGlvbiIsIGVkdWNhdGlvblNlY3Rpb24pCiAgICAgICAgLmFkZCgidGVjaG5pY2FsU2VjdGlvbiIsIHRlY2huaWNhbFNlY3Rpb24pCiAgICAgICAgLnRvU3RyaW5nKCk7CiAgICAqLw==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLlJlc3VtZS5UaGVtZTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBSZXN1bWUgciA9IG5ldyBSZXN1bWUoKTsKICAgIHIuc2V0VGhlbWUoVGhlbWUuQ0FTVUFMKTsKICAgIHhtbE1hcHBlci53cml0ZVZhbHVlKFN5c3RlbS5vdXQsIHIpOw==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>StandardCharsets</text>
       </register>
     </registers>
     <search>
