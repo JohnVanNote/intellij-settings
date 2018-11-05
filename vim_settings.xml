@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="/a.dummy" timestamp="1541365909590">
+      <file name="/a.dummy" timestamp="1541383630480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/src/com/jvn/wire/Main.java" timestamp="1508615807457">
@@ -49,15 +49,21 @@
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1541367902588" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1541381058186">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1532315669408">
         <mark key="[" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1533002710074">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1541384378447">
+        <mark key="[" line="59" column="10" />
+        <mark key="]" line="59" column="11" />
+        <mark key="." line="59" column="11" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1541375146394">
         <mark key="[" line="3" column="0" />
@@ -72,10 +78,10 @@
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1533396395440">
-        <mark key="[" line="26" column="49" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1541382534203">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Technical.java" timestamp="1534215048119">
         <mark key="[" line="4" column="0" />
@@ -103,28 +109,32 @@
         <mark key="]" line="31" column="55" />
         <mark key="." line="31" column="55" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Experience.java" timestamp="1541384397355">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1541377474693">
         <mark key="[" line="146" column="12" />
         <mark key="]" line="146" column="12" />
         <mark key="." line="146" column="12" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/DateRange.java" timestamp="1532917486989">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541379522685">
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541369186709" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541384420952">
+        <mark key="[" line="68" column="10" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1532915114472">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/SimpleDate.java" timestamp="1532917249342">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/SimpleDate.java" timestamp="1541382365019">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/LatexPrinter.java" timestamp="1541377087048">
         <mark key="[" line="130" column="51" />
@@ -136,11 +146,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539452043141">
+      <file name="/Dummy.txt" timestamp="1541384681452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/TechnicalSection.java" timestamp="1534215066286">
-        <mark key="[" line="2" column="30" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/TechnicalSection.java" timestamp="1541382571088">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/.gitignore" timestamp="1509578225127">
         <mark key="[" line="0" column="0" />
@@ -148,18 +160,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/PersonalSection.java" timestamp="1541370042146">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541379624759">
-        <mark key="[" line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1541369995745">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541384537746">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1541377042917">
         <mark key="[" line="26" column="2" />
@@ -188,53 +192,74 @@
       <file name="$USER_HOME$/IdeaProjects/septa/philly_loc.py" timestamp="1523221963594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Tool.java" timestamp="1534292220398">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Tool.java" timestamp="1541383494344">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      <register name="1" type="4">
+        <text>MoreObjects.toStringHelper(this)
+        .add(&quot;firstName&quot;, firstName)
+        .add(&quot;lastName&quot;, lastName)
+        .add(&quot;address&quot;, address)
+        .add(&quot;phoneNumber&quot;, phoneNumber)
+        .add(&quot;email&quot;, email)
+        .add(&quot;website&quot;, website)
+        .omitNullValues()
+        .toString();</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MoreObjects.toStringHelper(this)
+        .add(&quot;firstName&quot;, firstName)
+        .add(&quot;lastName&quot;, lastName)
+        .add(&quot;address&quot;, address)
+        .add(&quot;phoneNumber&quot;, phoneNumber)
+        .add(&quot;email&quot;, email)
+        .add(&quot;website&quot;, website)
+        .omitNullValues()
+        .toString();</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHMuVG9TdHJpbmdIZWxwZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb250ZW50cyA9IHRlbXBsYXRlLnJlYWRGaWxlQ29udGVudHMoKTsK</text>
+      <register name="3" type="4">
+        <text>MoreObjects.toStringHelper(this)
+        .add(&quot;degree&quot;, degree)
+        .add(&quot;name&quot;, name)
+        .add(&quot;address&quot;, address)
+        .add(&quot;gpa&quot;, gpa)
+        .add(&quot;tenure&quot;, tenure)
+        .toString();</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgLy8gVmVsb2NpdHkubWVyZ2VUZW1wbGF0ZSh0ZW1wbGF0ZS5nZXRGaWxlUGF0aCgpLCAiVVRGLTgiLCBjb250ZXh0LCB3cml0ZXIpOwo=</text>
+        <text encoding="base64">XGN2bGlzdGl0ZW17UHJvZ3JhbW1pbmcvU2NyaXB0aW5nIExhbmd1YWdlczogSmF2YSwgR3Jvb3Z5LCBQeXRob24sIEMvQysrLCBCQVNIL1NoZWxsLCBWQkEsIEphdmFTY3JpcHQsIFJ1YnkufQpcY3ZsaXN0aXRlbXtEZXZlbG9wbWVudCBUb29sczogR2l0LCBTVk4sIFZhZ3JhbnQsIEludGVsbGlKLCBFY2xpcHNlLCBpVGVybSAyLCBTdWJsaW1lIFRleHQgMi59Clxjdmxpc3RpdGVte1dlYiBTZXJ2ZXJzOiBBcGFjaGUgSFRUUCBTZXJ2ZXIsIElJUywgQXBhY2hlIFRvbWNhdCwgT3JhY2xlIFdlYkxvZ2ljLn0KXGN2bGlzdGl0ZW17T3BlcmF0aW5nIFN5c3RlbXM6IFJlZEhhdCBFbnRlcnByaXNlIExpbnV4LCBPU1gsIFdpbmRvd3MufQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvcGVyc29uYWw+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxwZXJzb25hbD4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLnByaW50ZXIuTGF0ZXhQcmludGVyOwo=</text>
+      <register name="7" type="4">
+        <text>MoreObjects.toStringHelper(this)
+        .add(&quot;label&quot;, label)
+        .add(&quot;toolSet&quot;, toolSet)
+        .toString();</text>
       </register>
-      <register name="8" type="4">
-        <text>import java.io.IOException;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.stream.Stream;</text>
+      <register name="8" type="2">
+        <text encoding="base64">JGV4cGVyaWVuY2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>Theme</text>
+        <text>John_Van_Note_Resume.tex</text>
       </register>
     </registers>
     <search>
@@ -252,6 +277,9 @@ import java.util.stream.Stream;</text>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
