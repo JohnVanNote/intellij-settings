@@ -59,10 +59,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1533002710074">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1537135232224">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1541375146394">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
         <mark key="[" line="87" column="0" />
@@ -90,18 +90,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541370772581">
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541375792452">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/FileUtil.java" timestamp="1541374258170">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/FileUtil.java" timestamp="1541374924261">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1541366462872">
         <mark key="[" line="50" column="26" />
@@ -113,10 +113,10 @@
         <mark key="]" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541368944065">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541374970668">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541369186709" />
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1532915114472">
@@ -170,10 +170,10 @@
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1541367762589">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="45" column="1" />
-        <mark key="." line="45" column="1" />
+      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1541376379588">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="56" column="1" />
+        <mark key="." line="56" column="1" />
       </file>
       <file name="$USER_HOME$/github/webcrawler/README.md" timestamp="1508202074414">
         <mark key="[" line="0" column="0" />
@@ -198,48 +198,45 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLnByaW50ZXIuTGF0ZXhQcmludGVyOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLnByaW50ZXIuTGF0ZXhQcmludGVyOwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
+        <text>import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.stream.Stream;</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBATwogIGRlZmF1bHQgU3RyaW5nIHRvU3RyaW5nKCkgewoKICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50ZXIuY2xvc2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>MoreObjects.toStringHelper(this)
-        .add(&quot;firstName&quot;, firstName)
-        .add(&quot;lastName&quot;, lastName)
-        .add(&quot;address&quot;, address)
-        .add(&quot;phoneNumber&quot;, phoneNumber)
-        .add(&quot;email&quot;, email)
-        .add(&quot;website&quot;, website)
-        .omitNullValues()
-        .toString();</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwdWJsaWMgYWJzdHJhY3Qgdm9pZCBjbG9zZSgpIHRocm93cyBJT0V4Y2VwdGlvbjsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4uUGVyc29uYWw7Cg==</text>
+      <register name="6" type="4">
+        <text>import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.IO;
+import java.io.File;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIC8qCiAgICByZXR1cm4gTW9yZU9iamVjdHMudG9TdHJpbmdIZWxwZXIodGhpcykKICAgICAgICAuYWRkKCJwZXJzb25hbFNlY3Rpb24iLCBwZXJzb25hbFNlY3Rpb24pCiAgICAgICAgLmFkZCgiZXhwZXJpZW5jZXNTZWN0aW9uIiwgZXhwZXJpZW5jZVNlY3Rpb24pCiAgICAgICAgLmFkZCgiZWR1Y2F0aW9uU2VjdGlvbiIsIGVkdWNhdGlvblNlY3Rpb24pCiAgICAgICAgLmFkZCgidGVjaG5pY2FsU2VjdGlvbiIsIHRlY2huaWNhbFNlY3Rpb24pCiAgICAgICAgLnRvU3RyaW5nKCk7CiAgICAqLw==</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLlJlc3VtZS5UaGVtZTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBATwogIGRlZmF1bHQgU3RyaW5nIHRvU3RyaW5nKCkgewoKICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>StandardCharsets</text>
+        <text>filePath</text>
       </register>
     </registers>
     <search>
