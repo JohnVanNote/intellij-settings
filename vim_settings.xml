@@ -24,10 +24,10 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Resume.java" timestamp="1541367889779">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Resume.java" timestamp="1541379650096">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
@@ -39,9 +39,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1541377162312">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
         <mark key="[" line="2" column="24" />
@@ -90,7 +90,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541377870667">
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541379814884">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -104,19 +104,18 @@
         <mark key="." line="31" column="55" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1541377474693">
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="12" />
-        <mark key="." line="105" column="12" />
+        <mark key="[" line="146" column="12" />
+        <mark key="]" line="146" column="12" />
+        <mark key="." line="146" column="12" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/DateRange.java" timestamp="1532917486989">
         <mark key="[" line="27" column="9" />
         <mark key="]" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541374970668">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541379522685">
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541369186709" />
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1532915114472">
@@ -154,8 +153,8 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541368664559">
-        <mark key="[" line="0" column="43" />
+      <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541379624759">
+        <mark key="[" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1541369995745">
         <mark key="[" line="2" column="0" />
@@ -198,39 +197,38 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvcGVyc29uYWw+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Theme</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwZXJzb25hbD4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHMuVG9TdHJpbmdIZWxwZXI7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBjb250ZW50cyA9IHRlbXBsYXRlLnJlYWRGaWxlQ29udGVudHMoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgLy8gVmVsb2NpdHkubWVyZ2VUZW1wbGF0ZSh0ZW1wbGF0ZS5nZXRGaWxlUGF0aCgpLCAiVVRGLTgiLCBjb250ZXh0LCB3cml0ZXIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwvcGVyc29uYWw+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxwZXJzb25hbD4K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLnByaW50ZXIuTGF0ZXhQcmludGVyOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.stream.Stream;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZXIuY2xvc2UoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgYWJzdHJhY3Qgdm9pZCBjbG9zZSgpIHRocm93cyBJT0V4Y2VwdGlvbjsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.IO;
-import java.io.File;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
+        <text encoding="base64">ICAgIHByaW50ZXIuY2xvc2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
