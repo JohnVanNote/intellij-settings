@@ -117,22 +117,24 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1541377474693">
-        <mark key="[" line="146" column="12" />
-        <mark key="]" line="146" column="12" />
-        <mark key="." line="146" column="12" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1541983065838">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541379522685">
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541982021334">
+        <mark key="[" line="54" column="54" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541384420952">
-        <mark key="[" line="68" column="10" />
-        <mark key="]" line="68" column="11" />
-        <mark key="." line="68" column="11" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541983057134">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1532915114472">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1541983033100">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/SimpleDate.java" timestamp="1541459774615">
         <mark key="[" line="36" column="0" />
@@ -176,10 +178,10 @@
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1541376379588">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="56" column="1" />
-        <mark key="." line="56" column="1" />
+      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1541983002348">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1541972096155">
         <mark key="[" line="36" column="73" />
@@ -207,12 +209,24 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vaWYgKHllYXIgPT0gbnVsbCAmJiBtb250aCA9PSBudWxsKSByZXR1cm4gIkN1cnJlbnQiOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmdvb2dsZS5ndWF2YS9ndWF2YSAtLT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLmd1YXZhPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5ndWF2YTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+MTkuMDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vaWYgKHllYXIgPT0gbnVsbCAmJiBtb250aCA9PSBudWxsKSByZXR1cm4gIkN1cnJlbnQiOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>MoreObjects.toStringHelper(this)
         .add(&quot;firstName&quot;, firstName)
         .add(&quot;lastName&quot;, lastName)
@@ -223,10 +237,10 @@
         .omitNullValues()
         .toString();</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>MoreObjects.toStringHelper(this)
         .add(&quot;degree&quot;, degree)
         .add(&quot;name&quot;, name)
@@ -235,29 +249,14 @@
         .add(&quot;tenure&quot;, tenure)
         .toString();</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">XGN2bGlzdGl0ZW17UHJvZ3JhbW1pbmcvU2NyaXB0aW5nIExhbmd1YWdlczogSmF2YSwgR3Jvb3Z5LCBQeXRob24sIEMvQysrLCBCQVNIL1NoZWxsLCBWQkEsIEphdmFTY3JpcHQsIFJ1YnkufQpcY3ZsaXN0aXRlbXtEZXZlbG9wbWVudCBUb29sczogR2l0LCBTVk4sIFZhZ3JhbnQsIEludGVsbGlKLCBFY2xpcHNlLCBpVGVybSAyLCBTdWJsaW1lIFRleHQgMi59Clxjdmxpc3RpdGVte1dlYiBTZXJ2ZXJzOiBBcGFjaGUgSFRUUCBTZXJ2ZXIsIElJUywgQXBhY2hlIFRvbWNhdCwgT3JhY2xlIFdlYkxvZ2ljLn0KXGN2bGlzdGl0ZW17T3BlcmF0aW5nIFN5c3RlbXM6IFJlZEhhdCBFbnRlcnByaXNlIExpbnV4LCBPU1gsIFdpbmRvd3MufQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TZXQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>MoreObjects.toStringHelper(this)
-        .add(&quot;label&quot;, label)
-        .add(&quot;toolSet&quot;, toolSet)
-        .toString();</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">JGV4cGVyaWVuY2VzCg==</text>
+        <text encoding="base64">XGN2bGlzdGl0ZW17UHJvZ3JhbW1pbmcvU2NyaXB0aW5nIExhbmd1YWdlczogSmF2YSwgR3Jvb3Z5LCBQeXRob24sIEMvQysrLCBCQVNIL1NoZWxsLCBWQkEsIEphdmFTY3JpcHQsIFJ1YnkufQpcY3ZsaXN0aXRlbXtEZXZlbG9wbWVudCBUb29sczogR2l0LCBTVk4sIFZhZ3JhbnQsIEludGVsbGlKLCBFY2xpcHNlLCBpVGVybSAyLCBTdWJsaW1lIFRleHQgMi59Clxjdmxpc3RpdGVte1dlYiBTZXJ2ZXJzOiBBcGFjaGUgSFRUUCBTZXJ2ZXIsIElJUywgQXBhY2hlIFRvbWNhdCwgT3JhY2xlIFdlYkxvZ2ljLn0KXGN2bGlzdGl0ZW17T3BlcmF0aW5nIFN5c3RlbXM6IFJlZEhhdCBFbnRlcnByaXNlIExpbnV4LCBPU1gsIFdpbmRvd3MufQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>John_Van_Note_Resume.tex</text>
+        <text />
       </register>
     </registers>
     <search>
