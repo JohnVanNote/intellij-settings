@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1542079344906">
+        <mark key="[" line="109" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,8 +174,8 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1541460780719">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1542079586424">
+        <mark key="[" line="67" column="122" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
