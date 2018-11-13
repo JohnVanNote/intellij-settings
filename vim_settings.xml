@@ -70,6 +70,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/makefile" timestamp="1542078490923">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
@@ -99,8 +105,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1541459338846">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1542078549579">
+        <mark key="[" line="19" column="48" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -253,7 +259,7 @@
         <text encoding="base64">XGN2bGlzdGl0ZW17UHJvZ3JhbW1pbmcvU2NyaXB0aW5nIExhbmd1YWdlczogSmF2YSwgR3Jvb3Z5LCBQeXRob24sIEMvQysrLCBCQVNIL1NoZWxsLCBWQkEsIEphdmFTY3JpcHQsIFJ1YnkufQpcY3ZsaXN0aXRlbXtEZXZlbG9wbWVudCBUb29sczogR2l0LCBTVk4sIFZhZ3JhbnQsIEludGVsbGlKLCBFY2xpcHNlLCBpVGVybSAyLCBTdWJsaW1lIFRleHQgMi59Clxjdmxpc3RpdGVte1dlYiBTZXJ2ZXJzOiBBcGFjaGUgSFRUUCBTZXJ2ZXIsIElJUywgQXBhY2hlIFRvbWNhdCwgT3JhY2xlIFdlYkxvZ2ljLn0KXGN2bGlzdGl0ZW17T3BlcmF0aW5nIFN5c3RlbXM6IFJlZEhhdCBFbnRlcnByaXNlIExpbnV4LCBPU1gsIFdpbmRvd3MufQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -267,6 +273,7 @@
       <history-search />
       <history-cmd>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
