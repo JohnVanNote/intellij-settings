@@ -44,8 +44,8 @@
       <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1541377162312">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1544481360132">
+        <mark key="[" line="167" column="25" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -74,10 +74,10 @@
         <mark key="]" line="59" column="11" />
         <mark key="." line="59" column="11" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1541375146394">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1544482014536">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/github/resume/makefile" timestamp="1544406204940">
         <mark key="[" line="13" column="0" />
@@ -114,7 +114,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1542078549579">
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1544481747435">
         <mark key="[" line="19" column="48" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -140,6 +140,9 @@
         <mark key="[" line="54" column="54" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/PrinterUnitTest.java" timestamp="1544482050248">
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1541983057134">
         <mark key="[" line="2" column="0" />
@@ -220,14 +223,17 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1544481615699">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRocm93cyBFeGNlcHRpb24=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
@@ -271,7 +277,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IHRocm93cyBFeGNlcHRpb24=</text>
       </register>
     </registers>
     <search>
