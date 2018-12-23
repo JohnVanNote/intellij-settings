@@ -35,8 +35,8 @@
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1542079344906">
-        <mark key="[" line="109" column="37" />
+      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1545580774247">
+        <mark key="[" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
         <mark key="[" line="0" column="0" />
@@ -44,8 +44,8 @@
       <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1544481360132">
-        <mark key="[" line="167" column="25" />
+      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1545580901377">
+        <mark key="[" line="7" column="19" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -74,16 +74,16 @@
         <mark key="]" line="59" column="11" />
         <mark key="." line="59" column="11" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1544482014536">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1545580159458">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
       </file>
       <file name="$USER_HOME$/github/resume/makefile" timestamp="1544406204940">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
         <mark key="[" line="88" column="0" />
@@ -188,18 +188,13 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1541377042917">
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-      </file>
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1541983002348">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
+      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1545580422941">
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1541972096155">
         <mark key="[" line="36" column="73" />
@@ -236,7 +231,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHRocm93cyBFeGNlcHRpb24=</text>
+        <text>rg.apache.commons</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuTW9yZU9iamVjdHM7Cg==</text>
@@ -280,7 +275,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93cyBFeGNlcHRpb24=</text>
+        <text>rg.apache.commons</text>
       </register>
     </registers>
     <search>
