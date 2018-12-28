@@ -56,9 +56,7 @@
         <mark key="[" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1545870139044">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
         <mark key="[" line="203" column="7" />
@@ -143,10 +141,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1541982021334">
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1546016043531">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/PrinterUnitTest.java" timestamp="1544482050248">
         <mark key="[" line="20" column="0" />
@@ -242,16 +240,19 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICgoTGF0ZXhSZXN1bWUpIHJlc3VtZSkuc2V0VGhlbWUoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBwdWJsaWMgRmlsZVV0aWwgZ2V0VGVtcGxhdGUoKSB7CiAgICByZXR1cm4gdGVtcGxhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZW1wbGF0ZShGaWxlVXRpbCB0ZW1wbGF0ZSkgewogICAgdGhpcy50ZW1wbGF0ZSA9IHRlbXBsYXRlOwogIH0KCiAgcHVibGljIEZpbGVVdGlsIGdldE91dCgpIHsKICAgIHJldHVybiBvdXQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPdXQoRmlsZVV0aWwgb3V0KSB7CiAgICB0aGlzLm91dCA9IG91dDsKICB9</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICgoTGF0ZXhSZXN1bWUpIHJlc3VtZSkuc2V0VGhlbWUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBwdWJsaWMgRmlsZVV0aWwgZ2V0VGVtcGxhdGUoKSB7CiAgICByZXR1cm4gdGVtcGxhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZW1wbGF0ZShGaWxlVXRpbCB0ZW1wbGF0ZSkgewogICAgdGhpcy50ZW1wbGF0ZSA9IHRlbXBsYXRlOwogIH0KCiAgcHVibGljIEZpbGVVdGlsIGdldE91dCgpIHsKICAgIHJldHVybiBvdXQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPdXQoRmlsZVV0aWwgb3V0KSB7CiAgICB0aGlzLm91dCA9IG91dDsKICB9</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHB1YmxpYyBQZXJzb25hbFNlY3Rpb24gZ2V0UGVyc29uYWxTZWN0aW9uKCkgewogICAgcmV0dXJuIHBlcnNvbmFsU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBlcnNvbmFsU2VjdGlvbihQZXJzb25hbFNlY3Rpb24gcGVyc29uYWxTZWN0aW9uKSB7CiAgICB0aGlzLnBlcnNvbmFsU2VjdGlvbiA9IHBlcnNvbmFsU2VjdGlvbjsKICB9CgogIHB1YmxpYyBFeHBlcmllbmNlU2VjdGlvbiBnZXRFeHBlcmllbmNlU2VjdGlvbigpIHsKICAgIHJldHVybiBleHBlcmllbmNlU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldEV4cGVyaWVuY2VTZWN0aW9uKEV4cGVyaWVuY2VTZWN0aW9uIGV4cGVyaWVuY2VTZWN0aW9uKSB7CiAgICB0aGlzLmV4cGVyaWVuY2VTZWN0aW9uID0gZXhwZXJpZW5jZVNlY3Rpb247CiAgfQoKICBwdWJsaWMgRWR1Y2F0aW9uU2VjdGlvbiBnZXRFZHVjYXRpb25TZWN0aW9uKCkgewogICAgcmV0dXJuIGVkdWNhdGlvblNlY3Rpb247CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRFZHVjYXRpb25TZWN0aW9uKEVkdWNhdGlvblNlY3Rpb24gZWR1Y2F0aW9uU2VjdGlvbikgewogICAgdGhpcy5lZHVjYXRpb25TZWN0aW9uID0gZWR1Y2F0aW9uU2VjdGlvbjsKICB9CgogIHB1YmxpYyBUZWNobmljYWxTZWN0aW9uIGdldFRlY2huaWNhbFNlY3Rpb24oKSB7CiAgICByZXR1cm4gdGVjaG5pY2FsU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldFRlY2huaWNhbFNlY3Rpb24oVGVjaG5pY2FsU2VjdGlvbiB0ZWNobmljYWxTZWN0aW9uKSB7CiAgICB0aGlzLnRlY2huaWNhbFNlY3Rpb24gPSB0ZWNobmljYWxTZWN0aW9uOwogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICgoTGF0ZXhSZXN1bWUpIHJlc3VtZSkuc2V0VGhlbWUoKTsK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">IHB1YmxpYyBQZXJzb25hbFNlY3Rpb24gZ2V0UGVyc29uYWxTZWN0aW9uKCkgewogICAgcmV0dXJuIHBlcnNvbmFsU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBlcnNvbmFsU2VjdGlvbihQZXJzb25hbFNlY3Rpb24gcGVyc29uYWxTZWN0aW9uKSB7CiAgICB0aGlzLnBlcnNvbmFsU2VjdGlvbiA9IHBlcnNvbmFsU2VjdGlvbjsKICB9CgogIHB1YmxpYyBFeHBlcmllbmNlU2VjdGlvbiBnZXRFeHBlcmllbmNlU2VjdGlvbigpIHsKICAgIHJldHVybiBleHBlcmllbmNlU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldEV4cGVyaWVuY2VTZWN0aW9uKEV4cGVyaWVuY2VTZWN0aW9uIGV4cGVyaWVuY2VTZWN0aW9uKSB7CiAgICB0aGlzLmV4cGVyaWVuY2VTZWN0aW9uID0gZXhwZXJpZW5jZVNlY3Rpb247CiAgfQoKICBwdWJsaWMgRWR1Y2F0aW9uU2VjdGlvbiBnZXRFZHVjYXRpb25TZWN0aW9uKCkgewogICAgcmV0dXJuIGVkdWNhdGlvblNlY3Rpb247CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRFZHVjYXRpb25TZWN0aW9uKEVkdWNhdGlvblNlY3Rpb24gZWR1Y2F0aW9uU2VjdGlvbikgewogICAgdGhpcy5lZHVjYXRpb25TZWN0aW9uID0gZWR1Y2F0aW9uU2VjdGlvbjsKICB9CgogIHB1YmxpYyBUZWNobmljYWxTZWN0aW9uIGdldFRlY2huaWNhbFNlY3Rpb24oKSB7CiAgICByZXR1cm4gdGVjaG5pY2FsU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldFRlY2huaWNhbFNlY3Rpb24oVGVjaG5pY2FsU2VjdGlvbiB0ZWNobmljYWxTZWN0aW9uKSB7CiAgICB0aGlzLnRlY2huaWNhbFNlY3Rpb24gPSB0ZWNobmljYWxTZWN0aW9uOwogIH0=</text>
+      </register>
+      <register name="4" type="4">
         <text>/*
   public PersonalSection getPersonalSection() {
     return personalSection;
@@ -286,27 +287,23 @@
   }
   */</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhZm9ybWF0LnhtbC5YbWxNYXBwZXI7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;street&quot;: null,
-          &quot;additionalStreet&quot;: null,</text>
       </register>
       <register name="6" type="4">
         <text>&quot;street&quot;: null,
           &quot;additionalStreet&quot;: null,</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICJzdHJlZXQiOiBudWxsLAogICAgICAgICAgImFkZGl0aW9uYWxTdHJlZXQiOiBudWxsLA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>,
-          &quot;zip&quot;: null</text>
-      </register>
-      <register name="9" type="4">
         <text>&quot;street&quot;: null,
           &quot;additionalStreet&quot;: null,</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICJzdHJlZXQiOiBudWxsLAogICAgICAgICAgImFkZGl0aW9uYWxTdHJlZXQiOiBudWxsLA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>,
+          &quot;zip&quot;: null</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
