@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="/a.dummy" timestamp="1541383630480">
+      <file name="/a.dummy" timestamp="1546017195576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/src/com/jvn/wire/Main.java" timestamp="1508615807457">
@@ -55,8 +55,10 @@
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1545870139044">
-        <mark key="[" line="4" column="13" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1546017350839">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
         <mark key="[" line="203" column="7" />
@@ -67,24 +69,20 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1545682052370">
-        <mark key="[" line="58" column="2" />
-        <mark key="]" line="60" column="11" />
-        <mark key="." line="60" column="11" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1546017408542">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1545580159458">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/DateRange.java" timestamp="1545682039537">
-        <mark key="[" line="38" column="2" />
-      </file>
-      <file name="$USER_HOME$/github/resume/makefile" timestamp="1545681798611">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/DateRange.java" timestamp="1546017387150">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
         <mark key="[" line="88" column="0" />
@@ -94,10 +92,10 @@
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1541382534203">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1546017061520">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Technical.java" timestamp="1534215048119">
         <mark key="[" line="4" column="0" />
@@ -131,33 +129,33 @@
         <mark key="]" line="31" column="55" />
         <mark key="." line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Experience.java" timestamp="1545682063232">
-        <mark key="[" line="68" column="3" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Experience.java" timestamp="1546017434045">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1545681968242">
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1546018055528">
+        <mark key="[" line="81" column="2" />
+        <mark key="]" line="81" column="2" />
+        <mark key="." line="81" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1546016043531">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1546016830256">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/PrinterUnitTest.java" timestamp="1544482050248">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1545682102163">
-        <mark key="[" line="68" column="2" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1546016902805">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1541983033100">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="11" />
-        <mark key="." line="31" column="11" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1546017130201">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/util/SimpleDate.java" timestamp="1541459774615">
         <mark key="[" line="36" column="0" />
@@ -177,10 +175,10 @@
       <file name="/Dummy.txt" timestamp="1541384681452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/TechnicalSection.java" timestamp="1541382571088">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/TechnicalSection.java" timestamp="1546017169015">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/.gitignore" timestamp="1509578225127">
         <mark key="[" line="0" column="0" />
@@ -193,13 +191,16 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/PersonalSection.java" timestamp="1546017113976" />
       <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.json" timestamp="1545680102651">
         <mark key="[" line="161" column="10" />
         <mark key="]" line="161" column="10" />
         <mark key="." line="161" column="10" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1545681958104">
-        <mark key="[" line="9" column="2" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1546016947113">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
@@ -209,8 +210,15 @@
         <mark key="]" line="49" column="16" />
         <mark key="." line="49" column="16" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1541972096155">
-        <mark key="[" line="36" column="73" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/ToolSet.java" timestamp="1546017486024">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/github/webcrawler/README.md" timestamp="1508202074414">
         <mark key="[" line="0" column="0" />
@@ -231,6 +239,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/README.md" timestamp="1546018126111">
+        <mark key="[" line="15" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1544481615699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -241,75 +252,68 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICBwdWJsaWMgRmlsZVV0aWwgZ2V0VGVtcGxhdGUoKSB7CiAgICByZXR1cm4gdGVtcGxhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZW1wbGF0ZShGaWxlVXRpbCB0ZW1wbGF0ZSkgewogICAgdGhpcy50ZW1wbGF0ZSA9IHRlbXBsYXRlOwogIH0KCiAgcHVibGljIEZpbGVVdGlsIGdldE91dCgpIHsKICAgIHJldHVybiBvdXQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPdXQoRmlsZVV0aWwgb3V0KSB7CiAgICB0aGlzLm91dCA9IG91dDsKICB9</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBwdWJsaWMgRmlsZVV0aWwgZ2V0VGVtcGxhdGUoKSB7CiAgICByZXR1cm4gdGVtcGxhdGU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZW1wbGF0ZShGaWxlVXRpbCB0ZW1wbGF0ZSkgewogICAgdGhpcy50ZW1wbGF0ZSA9IHRlbXBsYXRlOwogIH0KCiAgcHVibGljIEZpbGVVdGlsIGdldE91dCgpIHsKICAgIHJldHVybiBvdXQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPdXQoRmlsZVV0aWwgb3V0KSB7CiAgICB0aGlzLm91dCA9IG91dDsKICB9</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICgoTGF0ZXhSZXN1bWUpIHJlc3VtZSkuc2V0VGhlbWUoKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHB1YmxpYyBQZXJzb25hbFNlY3Rpb24gZ2V0UGVyc29uYWxTZWN0aW9uKCkgewogICAgcmV0dXJuIHBlcnNvbmFsU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldFBlcnNvbmFsU2VjdGlvbihQZXJzb25hbFNlY3Rpb24gcGVyc29uYWxTZWN0aW9uKSB7CiAgICB0aGlzLnBlcnNvbmFsU2VjdGlvbiA9IHBlcnNvbmFsU2VjdGlvbjsKICB9CgogIHB1YmxpYyBFeHBlcmllbmNlU2VjdGlvbiBnZXRFeHBlcmllbmNlU2VjdGlvbigpIHsKICAgIHJldHVybiBleHBlcmllbmNlU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldEV4cGVyaWVuY2VTZWN0aW9uKEV4cGVyaWVuY2VTZWN0aW9uIGV4cGVyaWVuY2VTZWN0aW9uKSB7CiAgICB0aGlzLmV4cGVyaWVuY2VTZWN0aW9uID0gZXhwZXJpZW5jZVNlY3Rpb247CiAgfQoKICBwdWJsaWMgRWR1Y2F0aW9uU2VjdGlvbiBnZXRFZHVjYXRpb25TZWN0aW9uKCkgewogICAgcmV0dXJuIGVkdWNhdGlvblNlY3Rpb247CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRFZHVjYXRpb25TZWN0aW9uKEVkdWNhdGlvblNlY3Rpb24gZWR1Y2F0aW9uU2VjdGlvbikgewogICAgdGhpcy5lZHVjYXRpb25TZWN0aW9uID0gZWR1Y2F0aW9uU2VjdGlvbjsKICB9CgogIHB1YmxpYyBUZWNobmljYWxTZWN0aW9uIGdldFRlY2huaWNhbFNlY3Rpb24oKSB7CiAgICByZXR1cm4gdGVjaG5pY2FsU2VjdGlvbjsKICB9CgogIHB1YmxpYyB2b2lkIHNldFRlY2huaWNhbFNlY3Rpb24oVGVjaG5pY2FsU2VjdGlvbiB0ZWNobmljYWxTZWN0aW9uKSB7CiAgICB0aGlzLnRlY2huaWNhbFNlY3Rpb24gPSB0ZWNobmljYWxTZWN0aW9uOwogIH0=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>/*
-  public PersonalSection getPersonalSection() {
-    return personalSection;
-  }
+        <text>public String getName() {
+      return name;
+    }
 
-  public void setPersonalSection(PersonalSection personalSection) {
-    this.personalSection = personalSection;
-  }
-
-  public ExperienceSection getExperienceSection() {
-    return experienceSection;
-  }
-
-  public void setExperienceSection(ExperienceSection experienceSection) {
-    this.experienceSection = experienceSection;
-  }
-
-  public EducationSection getEducationSection() {
-    return educationSection;
-  }
-
-  public void setEducationSection(EducationSection educationSection) {
-    this.educationSection = educationSection;
-  }
-
-  public TechnicalSection getTechnicalSection() {
-    return technicalSection;
-  }
-
-  public void setTechnicalSection(TechnicalSection technicalSection) {
-    this.technicalSection = technicalSection;
-  }
-  */</text>
+    public void setName(String name) {
+      this.name = name;
+    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhZm9ybWF0LnhtbC5YbWxNYXBwZXI7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;street&quot;: null,
-          &quot;additionalStreet&quot;: null,</text>
+        <text encoding="base64">ICBGb250U2l6ZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLnNldE5hbWUobmFtZSk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICByZXR1cm4gbmFtZTsKICAgIH0=</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;street&quot;: null,
-          &quot;additionalStreet&quot;: null,</text>
+        <text encoding="base64">CiAgcHVibGljIFRvb2xTZXQoKSB7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldExhYmVsKCkgewogICAgcmV0dXJuIGxhYmVsOwogIH0KCiAgcHVibGljIHZvaWQgc2V0TGFiZWwoU3RyaW5nIGxhYmVsKSB7CiAgICB0aGlzLmxhYmVsID0gbGFiZWw7CiAgfQoKICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFRvb2xzKCkgewogICAgcmV0dXJuIHRvb2xzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0VG9vbHMoTGlzdDxTdHJpbmc+IHRvb2xzKSB7CiAgICB0aGlzLnRvb2xzID0gdG9vbHM7CiAgfQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICJzdHJlZXQiOiBudWxsLAogICAgICAgICAgImFkZGl0aW9uYWxTdHJlZXQiOiBudWxsLA==</text>
+        <text>public SimpleDate() {
+  }
+
+  public SimpleDate(Integer year, Month month) {
+    this.setYear(year);
+    this.setMonth(month);
+  }
+
+  public Integer getYear() {
+    return year;
+  }
+
+  public void setYear(Integer year) {
+    this.year = year;
+  }
+
+  public Month getMonth() {
+    return month;
+  }
+
+  public void setMonth(Month month) {
+    this.month = month;
+  }</text>
       </register>
       <register name="9" type="4">
-        <text>,
-          &quot;zip&quot;: null</text>
+        <text encoding="base64">cHVibGljIEV4cGVyaWVuY2UoKSB7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldFRpdGxlKCkgewogICAgcmV0dXJuIHRpdGxlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0VGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICB0aGlzLnRpdGxlID0gdGl0bGU7CiAgfQoKICBwdWJsaWMgRGF0ZVJhbmdlIGdldFRlbnVyZSgpIHsKICAgIHJldHVybiB0ZW51cmU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZW51cmUoRGF0ZVJhbmdlIHRlbnVyZSkgewogICAgdGhpcy50ZW51cmUgPSB0ZW51cmU7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldENvbXBhbnkoKSB7CiAgICByZXR1cm4gY29tcGFueTsKICB9CgogIHB1YmxpYyB2b2lkIHNldENvbXBhbnkoU3RyaW5nIGNvbXBhbnkpIHsKICAgIHRoaXMuY29tcGFueSA9IGNvbXBhbnk7CiAgfQoKICBwdWJsaWMgQWRkcmVzcyBnZXRBZGRyZXNzKCkgewogICAgcmV0dXJuIGFkZHJlc3M7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBZGRyZXNzKEFkZHJlc3MgYWRkcmVzcykgewogICAgdGhpcy5hZGRyZXNzID0gYWRkcmVzczsKICB9CgogIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0VGVjaG5vbG9neVVzZWQoKSB7CiAgICByZXR1cm4gdGVjaG5vbG9neVVzZWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZWNobm9sb2d5VXNlZChMaXN0PFN0cmluZz4gdGVjaG5vbG9neVVzZWQpIHsKICAgIHRoaXMudGVjaG5vbG9neVVzZWQgPSB0ZWNobm9sb2d5VXNlZDsKICB9CgogIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0SGlnaGxpZ2h0cygpIHsKICAgIHJldHVybiBoaWdobGlnaHRzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SGlnaGxpZ2h0cyhMaXN0PFN0cmluZz4gaGlnaGxpZ2h0cykgewogICAgdGhpcy5oaWdobGlnaHRzID0gaGlnaGxpZ2h0czsKICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICJ6aXAiOiBudWxs</text>
+        <text />
       </register>
     </registers>
     <search>
