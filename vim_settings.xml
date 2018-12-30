@@ -84,6 +84,12 @@
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/github/resume/makefile" timestamp="1546100731453">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1536424391010">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -239,8 +245,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/README.md" timestamp="1546054405534">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/github/resume/README.md" timestamp="1546100883369">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1544481615699">
         <mark key="[" line="0" column="0" />
@@ -251,19 +259,31 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">bm4gSW4gb3JkZXIgdG8gYnVpbGQgbXkgcmVzdW1lIGFzIGEgcGRmLCBydW4gdGhlIGZvbGxvd2luZzoK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bm4gSW4gb3JkZXIgdG8gYnVpbGQgbXkgcmVzdW1lIGFzIGEgcGRmLCBydW4gdGhlIGZvbGxvd2luZzoK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
+        <text>You can skip this, and view my resume by running:
+```
+make view
+```</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
+        <text encoding="base64">IEkgZWRpdGVkIHRoZW0gdG8gbXkgbGlraW5nLCBidXQgYWxsIGNyZWRpdCBoZXJlLCBJIGFtIG5vdCBleHBlcmllbmNlZCBpbiAKTGFUZVg6IGh0dHBzOi8vd3d3LnNoYXJlbGF0ZXguY29tL3RlbXBsYXRlcy9jdi1vci1yZXN1bWU/Jm5vY2RuPXRydWUu</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>public String getName() {
       return name;
     }
@@ -272,48 +292,17 @@
       this.name = name;
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBGb250U2l6ZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLnNldE5hbWUobmFtZSk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICByZXR1cm4gbmFtZTsKICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcHVibGljIFRvb2xTZXQoKSB7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldExhYmVsKCkgewogICAgcmV0dXJuIGxhYmVsOwogIH0KCiAgcHVibGljIHZvaWQgc2V0TGFiZWwoU3RyaW5nIGxhYmVsKSB7CiAgICB0aGlzLmxhYmVsID0gbGFiZWw7CiAgfQoKICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldFRvb2xzKCkgewogICAgcmV0dXJuIHRvb2xzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0VG9vbHMoTGlzdDxTdHJpbmc+IHRvb2xzKSB7CiAgICB0aGlzLnRvb2xzID0gdG9vbHM7CiAgfQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text>public SimpleDate() {
-  }
-
-  public SimpleDate(Integer year, Month month) {
-    this.setYear(year);
-    this.setMonth(month);
-  }
-
-  public Integer getYear() {
-    return year;
-  }
-
-  public void setYear(Integer year) {
-    this.year = year;
-  }
-
-  public Month getMonth() {
-    return month;
-  }
-
-  public void setMonth(Month month) {
-    this.month = month;
-  }</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">cHVibGljIEV4cGVyaWVuY2UoKSB7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldFRpdGxlKCkgewogICAgcmV0dXJuIHRpdGxlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0VGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICB0aGlzLnRpdGxlID0gdGl0bGU7CiAgfQoKICBwdWJsaWMgRGF0ZVJhbmdlIGdldFRlbnVyZSgpIHsKICAgIHJldHVybiB0ZW51cmU7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZW51cmUoRGF0ZVJhbmdlIHRlbnVyZSkgewogICAgdGhpcy50ZW51cmUgPSB0ZW51cmU7CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldENvbXBhbnkoKSB7CiAgICByZXR1cm4gY29tcGFueTsKICB9CgogIHB1YmxpYyB2b2lkIHNldENvbXBhbnkoU3RyaW5nIGNvbXBhbnkpIHsKICAgIHRoaXMuY29tcGFueSA9IGNvbXBhbnk7CiAgfQoKICBwdWJsaWMgQWRkcmVzcyBnZXRBZGRyZXNzKCkgewogICAgcmV0dXJuIGFkZHJlc3M7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRBZGRyZXNzKEFkZHJlc3MgYWRkcmVzcykgewogICAgdGhpcy5hZGRyZXNzID0gYWRkcmVzczsKICB9CgogIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0VGVjaG5vbG9neVVzZWQoKSB7CiAgICByZXR1cm4gdGVjaG5vbG9neVVzZWQ7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRUZWNobm9sb2d5VXNlZChMaXN0PFN0cmluZz4gdGVjaG5vbG9neVVzZWQpIHsKICAgIHRoaXMudGVjaG5vbG9neVVzZWQgPSB0ZWNobm9sb2d5VXNlZDsKICB9CgogIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0SGlnaGxpZ2h0cygpIHsKICAgIHJldHVybiBoaWdobGlnaHRzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SGlnaGxpZ2h0cyhMaXN0PFN0cmluZz4gaGlnaGxpZ2h0cykgewogICAgdGhpcy5oaWdobGlnaHRzID0gaGlnaGxpZ2h0czsKICB9</text>
+        <text encoding="base64">ICBGb250U2l6ZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLnNldE5hbWUobmFtZSk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICByZXR1cm4gbmFtZTsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Resume and Cover Lette</text>
       </register>
     </registers>
     <search>
