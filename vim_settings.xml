@@ -119,10 +119,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1545871625578">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1546554843631">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
         <mark key="[" line="0" column="0" />
@@ -145,10 +145,10 @@
         <mark key="]" line="81" column="2" />
         <mark key="." line="81" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1546016830256">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1546554849053">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/PrinterUnitTest.java" timestamp="1544482050248">
         <mark key="[" line="20" column="0" />
@@ -260,43 +260,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">bm4gSW4gb3JkZXIgdG8gYnVpbGQgbXkgcmVzdW1lIGFzIGEgcGRmLCBydW4gdGhlIGZvbGxvd2luZzoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vRmlsZVV0aWwgcmVzdW1lSnNvbiA9IG5ldyBGaWxlVXRpbCgiZGF0YS9Kb2huVmFuTm90ZVJlc3VtZS5qc29uIik7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">bm4gSW4gb3JkZXIgdG8gYnVpbGQgbXkgcmVzdW1lIGFzIGEgcGRmLCBydW4gdGhlIGZvbGxvd2luZzoK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>You can skip this, and view my resume by running:
 ```
 make view
 ```</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IEkgZWRpdGVkIHRoZW0gdG8gbXkgbGlraW5nLCBidXQgYWxsIGNyZWRpdCBoZXJlLCBJIGFtIG5vdCBleHBlcmllbmNlZCBpbiAKTGFUZVg6IGh0dHBzOi8vd3d3LnNoYXJlbGF0ZXguY29tL3RlbXBsYXRlcy9jdi1vci1yZXN1bWU/Jm5vY2RuPXRydWUu</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
-      </register>
       <register name="7" type="4">
-        <text>public String getName() {
-      return name;
-    }
-
-    public void setName(String name) {
-      this.name = name;
-    }</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
+        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBGb250U2l6ZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLnNldE5hbWUobmFtZSk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICByZXR1cm4gbmFtZTsKICAgIH0=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgcmV0dXJuIG5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
