@@ -52,6 +52,11 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinterUnitTest.java" timestamp="1547414045354">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
       </file>
@@ -197,22 +202,21 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/PersonalSection.java" timestamp="1546017113976" />
       <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.json" timestamp="1545680102651">
         <mark key="[" line="161" column="10" />
         <mark key="]" line="161" column="10" />
         <mark key="." line="161" column="10" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1546016947113">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1547408654304">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1547399768048">
-        <mark key="[" line="38" column="16" />
+      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1547413478858">
+        <mark key="[" line="68" column="0" />
         <mark key="]" line="56" column="16" />
         <mark key="." line="56" column="16" />
       </file>
@@ -260,43 +264,43 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihvdXRDb250ZW50LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihvdXRDb250ZW50LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmlvLkJ5dGVCdWZmZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
+        <text encoding="base64">ICBwdWJsaWMgU2ltcGxlUHJpbnRlcihBcHBlbmRhYmxlIG91dCkgewogICAgdGhpcy5zZXRPdXQob3V0KTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vRmlsZVV0aWwgcmVzdW1lSnNvbiA9IG5ldyBGaWxlVXRpbCgiZGF0YS9Kb2huVmFuTm90ZVJlc3VtZS5qc29uIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVdyaXRlcjsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4udXRpbC5GaWxlVXRpbDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vRmlsZVV0aWwgcmVzdW1lSnNvbiA9IG5ldyBGaWxlVXRpbCgiZGF0YS9Kb2huVmFuTm90ZVJlc3VtZS5qc29uIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">bm4gSW4gb3JkZXIgdG8gYnVpbGQgbXkgcmVzdW1lIGFzIGEgcGRmLCBydW4gdGhlIGZvbGxvd2luZzoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>You can skip this, and view my resume by running:
 ```
 make view
 ```</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IEkgZWRpdGVkIHRoZW0gdG8gbXkgbGlraW5nLCBidXQgYWxsIGNyZWRpdCBoZXJlLCBJIGFtIG5vdCBleHBlcmllbmNlZCBpbiAKTGFUZVg6IGh0dHBzOi8vd3d3LnNoYXJlbGF0ZXguY29tL3RlbXBsYXRlcy9jdi1vci1yZXN1bWU/Jm5vY2RuPXRydWUu</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwdWJsaWMgU3RyaW5nIGdldE5hbWUoKSB7CiAgICAgIHJldHVybiBuYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0=</text>
-      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>FileWriter</text>
+        <text encoding="base64">ICAgU3lzdGVtLm91dC5wcmludGxuKCk7</text>
       </register>
     </registers>
     <search>
