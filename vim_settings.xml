@@ -122,6 +122,11 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedinConnection.java" timestamp="1541460408386">
         <mark key="[" line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedIn.java" timestamp="1548214927242">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+      </file>
       <file name="$USER_HOME$/github/resume/John_Van_Note_Resume.tex" timestamp="1541364091511">
         <mark key="[" line="62" column="119" />
         <mark key="]" line="0" column="0" />
@@ -221,8 +226,8 @@
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplePrinterIntegrationTet.java" timestamp="1547520640311">
         <mark key="[" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1547413478858">
-        <mark key="[" line="68" column="0" />
+      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1548214009407">
+        <mark key="[" line="75" column="0" />
         <mark key="]" line="56" column="16" />
         <mark key="." line="56" column="16" />
       </file>
@@ -273,7 +278,7 @@
         <text encoding="base64">CiAgICBwcmludGVyID0gbmV3IFNpbXBsZVByaW50ZXIoU3lzdGVtLm91dCk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwcmludGVyID0gbmV3IFNpbXBsZVByaW50ZXIoU3lzdGVtLm91dCk7</text>
+        <text>8gscPVjY4jqFFHPYWJKgpFl4uLTM6</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihvdXRDb250ZW50LnRvU3RyaW5nKCkpOwo=</text>
@@ -303,7 +308,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgU3lzdGVtLm91dC5wcmludGxuKCk7</text>
+        <text>8gscPVjY4jqFFHPYWJKgpFl4uLTM6</text>
       </register>
     </registers>
     <search>
