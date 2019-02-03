@@ -108,7 +108,7 @@
         <mark key="]" line="81" column="2" />
         <mark key="." line="81" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1546919072576">
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1549218588333">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -150,11 +150,6 @@
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplePrinterIntegrationTet.java" timestamp="1547520640311">
         <mark key="[" line="2" column="40" />
-      </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1548290004650">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/ToolSet.java" timestamp="1546017486024">
         <mark key="[" line="14" column="0" />
