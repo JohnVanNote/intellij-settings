@@ -12,8 +12,10 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
         <mark key="[" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1549229232437">
-        <mark key="[" line="0" column="13" />
+      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1549230794258">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
@@ -202,40 +204,40 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoaWdobGlnaHRzPkRlc2lnbmVkIGFuZCBkZXZlbG9wZWQgY3VzdG9tIHNvbHV0aW9ucyB0byBpbnRlZ3JhdGUgd2l0aCAzcmQgcGFydHkgPC9oaWdobGlnaHRzPgo=</text>
+        <text encoding="base64">aW5zdGFsbDogdHJhdmlzX3dhaXQgaW5zdGFsbCBtYXZlbgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoaWdobGlnaHRzPkRlc2lnbmVkIGFuZCBkZXZlbG9wZWQgY3VzdG9tIHNvbHV0aW9ucyB0byBpbnRlZ3JhdGUgd2l0aCAzcmQgcGFydHkgPC9oaWdobGlnaHRzPgo=</text>
+        <text encoding="base64">aW5zdGFsbDogdHJhdmlzX3dhaXQgaW5zdGFsbCBtYXZlbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD5CaXRCdWNrZXQ8L3RlY2hub2xvZ3lVc2VkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxoaWdobGlnaHRzPkRlc2lnbmVkIGFuZCBkZXZlbG9wZWQgY3VzdG9tIHNvbHV0aW9ucyB0byBpbnRlZ3JhdGUgd2l0aCAzcmQgcGFydHkgPC9oaWdobGlnaHRzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD48L3RlY2hub2xvZ3lVc2VkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD5CaXRCdWNrZXQ8L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5hcGlzLkxpbmtlZEluQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD48L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm1vZGVsLlRva2VuOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5hcGlzLkxpbmtlZEluQXBpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm9hdXRoLk9BdXRoU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm1vZGVsLlRva2VuOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm9hdXRoLk9BdXRoU2VydmljZTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFNjYW5uZXIgaW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09IExpbmtlZEluJ3MgT0F1dGggV29ya2Zsb3cgPT09Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKCiAgICAvLyBPYnRhaW4gdGhlIFJlcXVlc3QgVG9rZW4KICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmV0Y2hpbmcgdGhlIFJlcXVlc3QgVG9rZW4uLi4iKTsKICAgIFRva2VuIHJlcXVlc3RUb2tlbiA9IHNlcnZpY2UuZ2V0UmVxdWVzdFRva2VuKCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdvdCB0aGUgUmVxdWVzdCBUb2tlbiEiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm93IGdvIGFuZCBhdXRob3JpemUgU2NyaWJlIGhlcmU6Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VydmljZS5nZXRBdXRob3JpemF0aW9uVXJsKHJlcXVlc3RUb2tlbikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJBbmQgcGFzdGUgdGhlIHZlcmlmaWVyIGhlcmUiKTsKICAgIFN5c3RlbS5vdXQucHJpbnQoIj4+Iik7CiAgICBWZXJpZmllciB2ZXJpZmllciA9IG5ldyBWZXJpZmllcihpbi5uZXh0TGluZSgpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIC8vIFRyYWRlIHRoZSBSZXF1ZXN0IFRva2VuIGFuZCBWZXJpZmllciBmb3IgdGhlIEFjY2VzcyBUb2tlbgogICAgU3lzdGVtLm91dC5wcmludGxuKCJUcmFkaW5nIHRoZSBSZXF1ZXN0IFRva2VuIGZvciBhbiBBY2Nlc3MgVG9rZW4uLi4iKTsKICAgIFRva2VuIGFjY2Vzc1Rva2VuID0gc2VydmljZS5nZXRBY2Nlc3NUb2tlbihyZXF1ZXN0VG9rZW4sIHZlcmlmaWVyKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR290IHRoZSBBY2Nlc3MgVG9rZW4hIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIihpZiB5b3VyIGN1cmlvdXMgaXQgbG9va3MgbGlrZSB0aGlzOiAiICsgYWNjZXNzVG9rZW4gKyAiICkiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIC8vIE5vdyBsZXQncyBnbyBhbmQgYXNrIGZvciBhIHByb3RlY3RlZCByZXNvdXJjZSEKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm93IHdlJ3JlIGdvaW5nIHRvIGFjY2VzcyBhIHByb3RlY3RlZCByZXNvdXJjZS4uLiIpOwogICAgT0F1dGhSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgT0F1dGhSZXF1ZXN0KFZlcmIuR0VULCBQUk9URUNURURfUkVTT1VSQ0VfVVJMKTsKICAgIHNlcnZpY2Uuc2lnblJlcXVlc3QoYWNjZXNzVG9rZW4sIHJlcXVlc3QpOwogICAgUmVzcG9uc2UgcmVzcG9uc2UgPSByZXF1ZXN0LnNlbmQoKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR290IGl0ISBMZXRzIHNlZSB3aGF0IHdlIGZvdW5kLi4uIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwb25zZS5nZXRCb2R5KCkpOwoKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGF0J3MgaXQgbWFuISBHbyBhbmQgYnVpbGQgc29tZXRoaW5nIGF3ZXNvbWUgd2l0aCBTY3JpYmUhIDopIik7CgogIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBpS2V5KEFQSV9LRVkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>8gscPVjY4jqFFHPYWJKgpFl4uLTM6</text>
+        <text>travis_wait mvn install</text>
       </register>
     </registers>
     <search>
