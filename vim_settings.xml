@@ -3,100 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
-        <mark key="[" line="2" column="54" />
-      </file>
-      <file name="/a.dummy" timestamp="1548212792512">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
-        <mark key="[" line="3" column="63" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
-        <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1545580774247">
-        <mark key="[" line="4" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinterUnitTest.java" timestamp="1547517561891">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
-        <mark key="[" line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1546017350839">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
-        <mark key="[" line="203" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/requirements.txt" timestamp="1544415055410">
-        <mark key="[" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
-        <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1546017408542">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="2" />
-        <mark key="." line="17" column="2" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/DateRange.java" timestamp="1546017387150">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/github/resume/makefile" timestamp="1546100731453">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1546017061520">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-      </file>
-      <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/Address_UnitTest.java" timestamp="1547920776174">
-        <mark key="[" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedinConnection.java" timestamp="1541460408386">
-        <mark key="[" line="2" column="32" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedIn.java" timestamp="1548290386059">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
+        <mark key="[" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1546554843631">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1548212792512">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/LICENSE.md" timestamp="1545680948304">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
+        <mark key="[" line="3" column="63" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Experience.java" timestamp="1546017434045">
         <mark key="[" line="18" column="2" />
@@ -107,6 +37,12 @@
         <mark key="[" line="81" column="2" />
         <mark key="]" line="81" column="2" />
         <mark key="." line="81" column="2" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1545580774247">
+        <mark key="[" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1549218588333">
         <mark key="[" line="5" column="0" />
@@ -126,6 +62,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1541384681452">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,21 +79,70 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
         <mark key="[" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinterUnitTest.java" timestamp="1547517561891">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1549222352440">
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
+        <mark key="[" line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1546017350839">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1547408654304">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
+        <mark key="[" line="203" column="7" />
+      </file>
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/requirements.txt" timestamp="1544415055410">
+        <mark key="[" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplePrinterIntegrationTet.java" timestamp="1547520640311">
         <mark key="[" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1546017408542">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/ToolSet.java" timestamp="1546017486024">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/DateRange.java" timestamp="1546017387150">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/github/resume/makefile" timestamp="1546100731453">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
         <mark key="[" line="15" column="2" />
@@ -164,11 +152,28 @@
       <file name="$USER_HOME$/github/webcrawler/README.md" timestamp="1508202074414">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1546017061520">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/busted-brackets/src/main/java/org/jvn/bracketology/Team.java" timestamp="1519956531267">
         <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/philly_loc.py" timestamp="1523221963594">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/Address_UnitTest.java" timestamp="1547920776174">
+        <mark key="[" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedinConnection.java" timestamp="1541460408386">
+        <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/github/resume/README.md" timestamp="1546100883369">
         <mark key="[" line="6" column="0" />
@@ -185,40 +190,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5hcGlzLkxpbmtlZEluQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD5CaXRCdWNrZXQ8L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5hcGlzLkxpbmtlZEluQXBpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD5CaXRCdWNrZXQ8L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm1vZGVsLlRva2VuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD48L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm9hdXRoLk9BdXRoU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5hcGlzLkxpbmtlZEluQXBpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNjYW5uZXIgaW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm1vZGVsLlRva2VuOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09IExpbmtlZEluJ3MgT0F1dGggV29ya2Zsb3cgPT09Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKCiAgICAvLyBPYnRhaW4gdGhlIFJlcXVlc3QgVG9rZW4KICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmV0Y2hpbmcgdGhlIFJlcXVlc3QgVG9rZW4uLi4iKTsKICAgIFRva2VuIHJlcXVlc3RUb2tlbiA9IHNlcnZpY2UuZ2V0UmVxdWVzdFRva2VuKCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdvdCB0aGUgUmVxdWVzdCBUb2tlbiEiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm93IGdvIGFuZCBhdXRob3JpemUgU2NyaWJlIGhlcmU6Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VydmljZS5nZXRBdXRob3JpemF0aW9uVXJsKHJlcXVlc3RUb2tlbikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJBbmQgcGFzdGUgdGhlIHZlcmlmaWVyIGhlcmUiKTsKICAgIFN5c3RlbS5vdXQucHJpbnQoIj4+Iik7CiAgICBWZXJpZmllciB2ZXJpZmllciA9IG5ldyBWZXJpZmllcihpbi5uZXh0TGluZSgpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIC8vIFRyYWRlIHRoZSBSZXF1ZXN0IFRva2VuIGFuZCBWZXJpZmllciBmb3IgdGhlIEFjY2VzcyBUb2tlbgogICAgU3lzdGVtLm91dC5wcmludGxuKCJUcmFkaW5nIHRoZSBSZXF1ZXN0IFRva2VuIGZvciBhbiBBY2Nlc3MgVG9rZW4uLi4iKTsKICAgIFRva2VuIGFjY2Vzc1Rva2VuID0gc2VydmljZS5nZXRBY2Nlc3NUb2tlbihyZXF1ZXN0VG9rZW4sIHZlcmlmaWVyKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR290IHRoZSBBY2Nlc3MgVG9rZW4hIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIihpZiB5b3VyIGN1cmlvdXMgaXQgbG9va3MgbGlrZSB0aGlzOiAiICsgYWNjZXNzVG9rZW4gKyAiICkiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIC8vIE5vdyBsZXQncyBnbyBhbmQgYXNrIGZvciBhIHByb3RlY3RlZCByZXNvdXJjZSEKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm93IHdlJ3JlIGdvaW5nIHRvIGFjY2VzcyBhIHByb3RlY3RlZCByZXNvdXJjZS4uLiIpOwogICAgT0F1dGhSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgT0F1dGhSZXF1ZXN0KFZlcmIuR0VULCBQUk9URUNURURfUkVTT1VSQ0VfVVJMKTsKICAgIHNlcnZpY2Uuc2lnblJlcXVlc3QoYWNjZXNzVG9rZW4sIHJlcXVlc3QpOwogICAgUmVzcG9uc2UgcmVzcG9uc2UgPSByZXF1ZXN0LnNlbmQoKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR290IGl0ISBMZXRzIHNlZSB3aGF0IHdlIGZvdW5kLi4uIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwb25zZS5nZXRCb2R5KCkpOwoKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGF0J3MgaXQgbWFuISBHbyBhbmQgYnVpbGQgc29tZXRoaW5nIGF3ZXNvbWUgd2l0aCBTY3JpYmUhIDopIik7CgogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm9hdXRoLk9BdXRoU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIFNjYW5uZXIgaW4gPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09IExpbmtlZEluJ3MgT0F1dGggV29ya2Zsb3cgPT09Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKCiAgICAvLyBPYnRhaW4gdGhlIFJlcXVlc3QgVG9rZW4KICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmV0Y2hpbmcgdGhlIFJlcXVlc3QgVG9rZW4uLi4iKTsKICAgIFRva2VuIHJlcXVlc3RUb2tlbiA9IHNlcnZpY2UuZ2V0UmVxdWVzdFRva2VuKCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkdvdCB0aGUgUmVxdWVzdCBUb2tlbiEiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm93IGdvIGFuZCBhdXRob3JpemUgU2NyaWJlIGhlcmU6Iik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2VydmljZS5nZXRBdXRob3JpemF0aW9uVXJsKHJlcXVlc3RUb2tlbikpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJBbmQgcGFzdGUgdGhlIHZlcmlmaWVyIGhlcmUiKTsKICAgIFN5c3RlbS5vdXQucHJpbnQoIj4+Iik7CiAgICBWZXJpZmllciB2ZXJpZmllciA9IG5ldyBWZXJpZmllcihpbi5uZXh0TGluZSgpKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIC8vIFRyYWRlIHRoZSBSZXF1ZXN0IFRva2VuIGFuZCBWZXJpZmllciBmb3IgdGhlIEFjY2VzcyBUb2tlbgogICAgU3lzdGVtLm91dC5wcmludGxuKCJUcmFkaW5nIHRoZSBSZXF1ZXN0IFRva2VuIGZvciBhbiBBY2Nlc3MgVG9rZW4uLi4iKTsKICAgIFRva2VuIGFjY2Vzc1Rva2VuID0gc2VydmljZS5nZXRBY2Nlc3NUb2tlbihyZXF1ZXN0VG9rZW4sIHZlcmlmaWVyKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR290IHRoZSBBY2Nlc3MgVG9rZW4hIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oIihpZiB5b3VyIGN1cmlvdXMgaXQgbG9va3MgbGlrZSB0aGlzOiAiICsgYWNjZXNzVG9rZW4gKyAiICkiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIC8vIE5vdyBsZXQncyBnbyBhbmQgYXNrIGZvciBhIHByb3RlY3RlZCByZXNvdXJjZSEKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTm93IHdlJ3JlIGdvaW5nIHRvIGFjY2VzcyBhIHByb3RlY3RlZCByZXNvdXJjZS4uLiIpOwogICAgT0F1dGhSZXF1ZXN0IHJlcXVlc3QgPSBuZXcgT0F1dGhSZXF1ZXN0KFZlcmIuR0VULCBQUk9URUNURURfUkVTT1VSQ0VfVVJMKTsKICAgIHNlcnZpY2Uuc2lnblJlcXVlc3QoYWNjZXNzVG9rZW4sIHJlcXVlc3QpOwogICAgUmVzcG9uc2UgcmVzcG9uc2UgPSByZXF1ZXN0LnNlbmQoKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigiR290IGl0ISBMZXRzIHNlZSB3aGF0IHdlIGZvdW5kLi4uIik7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXNwb25zZS5nZXRCb2R5KCkpOwoKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgU3lzdGVtLm91dC5wcmludGxuKCJUaGF0J3MgaXQgbWFuISBHbyBhbmQgYnVpbGQgc29tZXRoaW5nIGF3ZXNvbWUgd2l0aCBTY3JpYmUhIDopIik7CgogIH0=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAuYXBpS2V5KEFQSV9LRVkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucHJvdmlkZXIoTGlua2VkSW5BcGkuY2xhc3MpCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>import org.scribe.builder.api.LinkedInApi;
-import org.scribe.model.OAuthRequest;
-import org.scribe.model.Response;
-import org.scribe.model.Token;
-import org.scribe.model.Verb;
-import org.scribe.model.Verifier;
-import org.scribe.oauth.OAuthService;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuc2NyaWJlL3NjcmliZSAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAucHJvdmlkZXIoTGlua2VkSW5BcGkuY2xhc3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
