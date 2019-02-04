@@ -12,10 +12,10 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
         <mark key="[" line="3" column="63" />
       </file>
-      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1549240674257">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1549241723596">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
@@ -69,11 +69,11 @@
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/github/resume/makefile" timestamp="1549225609403">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+      <file name="$USER_HOME$/github/resume/makefile" timestamp="1549241611256">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="29" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
         <mark key="[" line="0" column="0" />
@@ -204,39 +204,43 @@
     <jumps />
     <registers>
       <register name="1" type="4">
+        <text>branches:
+  only:
+  - travis</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>branches:
+  only:
+  - travis</text>
+      </register>
+      <register name="2" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo add-apt-repository ppa:webupd8team/java
   - sudo apt-get install -y oracle-java8-installer maven</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>bash</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo apt-get install -y maven</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW5zdGFsbDogdHJhdmlzX3dhaXQgaW5zdGFsbCBtYXZlbgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIDxoaWdobGlnaHRzPkRlc2lnbmVkIGFuZCBkZXZlbG9wZWQgY3VzdG9tIHNvbHV0aW9ucyB0byBpbnRlZ3JhdGUgd2l0aCAzcmQgcGFydHkgPC9oaWdobGlnaHRzPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD5CaXRCdWNrZXQ8L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD48L3RlY2hub2xvZ3lVc2VkPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5hcGlzLkxpbmtlZEluQXBpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm1vZGVsLlRva2VuOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm9hdXRoLk9BdXRoU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5naXRodWIuc2NyaWJlamF2YS5jb3JlLm1vZGVsLlRva2VuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
