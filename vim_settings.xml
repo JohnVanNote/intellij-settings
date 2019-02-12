@@ -65,7 +65,7 @@
         <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/Printer.java" timestamp="1549931485277">
-        <mark key="[" line="6" column="50" />
+        <mark key="[" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/github/resume/makefile" timestamp="1549333584284">
         <mark key="[" line="9" column="43" />
@@ -80,6 +80,9 @@
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/Printer_UnitTest.java" timestamp="1549932149727">
+        <mark key="[" line="20" column="60" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1549333595584">
         <mark key="[" line="2" column="28" />
@@ -191,6 +194,9 @@
         <mark key="[" line="6" column="10" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/DateRange.java" timestamp="1549932057060">
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1544481615699">
         <mark key="[" line="0" column="0" />
