@@ -41,9 +41,9 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1549224055755">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
@@ -97,8 +97,8 @@
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/Printer_UnitTest.java" timestamp="1549932149727">
         <mark key="[" line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1549333595584">
-        <mark key="[" line="2" column="28" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1550435398829">
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/markov.py" timestamp="1550432522621">
         <mark key="[" line="16" column="21" />
@@ -179,8 +179,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.json" timestamp="1549333369599">
-        <mark key="[" line="229" column="19" />
+      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.json" timestamp="1550435246665">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/setup.py" timestamp="1550429510621">
         <mark key="[" line="10" column="0" />
@@ -238,36 +240,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQgPSBzZWxmLmdldF9lb2xfc3RyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICJJbnN0YWxsZWQgYW5kIGltcGxlbWVudGVkIFNhaWxQb2ludOKAmXMgSWRlbnRpdHlJUSBhbmQgSWRlbnRpdHlOb3cgb24gY2xpZW50IHNpdGVzIHdpdGggY3VzdG9tIGludGVncmF0aW9ucyBhbmQgY29uZmlndXJhdGlvbiBtYW5hZ2VtZW50LiIsCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQgPSBzZWxmLmdldF9lb2xfc3RyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICJJbnN0YWxsZWQgYW5kIGltcGxlbWVudGVkIFNhaWxQb2ludOKAmXMgSWRlbnRpdHlJUSBhbmQgSWRlbnRpdHlOb3cgb24gY2xpZW50IHNpdGVzIHdpdGggY3VzdG9tIGludGVncmF0aW9ucyBhbmQgY29uZmlndXJhdGlvbiBtYW5hZ2VtZW50LiIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQgPSBzZWxmLmdldF9lb2xfc3RyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
+        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>branches:
-  only:
-  - travis</text>
+      <register name="9" type="2">
+        <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
