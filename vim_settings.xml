@@ -79,8 +79,8 @@
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1550425564954">
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1550429406937">
+        <mark key="[" line="11" column="6" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
@@ -177,6 +177,11 @@
       <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.json" timestamp="1549333369599">
         <mark key="[" line="229" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/setup.py" timestamp="1550429510621">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1547408654304">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -228,41 +233,39 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>branches:
   only:
   - travis</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo add-apt-repository ppa:webupd8team/java
   - sudo apt-get install -y oracle-java8-installer maven</text>
-      </register>
-      <register name="9" type="4">
-        <text>before_install:
-  - sudo apt-get update
-  - sudo apt-get install -y maven</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
