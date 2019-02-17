@@ -6,11 +6,17 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/.gitignore" timestamp="1550425877805">
+        <mark key="[" line="5" column="4" />
+      </file>
       <file name="/a.dummy" timestamp="1548212792512">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
         <mark key="[" line="3" column="63" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/MarkovChain.py" timestamp="1550425746886">
+        <mark key="[" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
@@ -73,10 +79,10 @@
         <mark key="^" line="29" column="22" />
         <mark key="." line="29" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1550386059322">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1550425564954">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
         <mark key="[" line="0" column="0" />
@@ -91,6 +97,9 @@
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1549333595584">
         <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/Makefile" timestamp="1550425895600">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
         <mark key="[" line="7" column="0" />
@@ -213,41 +222,41 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>branches:
   only:
   - travis</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo add-apt-repository ppa:webupd8team/java
   - sudo apt-get install -y oracle-java8-installer maven</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo apt-get install -y maven</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW5zdGFsbDogdHJhdmlzX3dhaXQgaW5zdGFsbCBtYXZlbgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxoaWdobGlnaHRzPkRlc2lnbmVkIGFuZCBkZXZlbG9wZWQgY3VzdG9tIHNvbHV0aW9ucyB0byBpbnRlZ3JhdGUgd2l0aCAzcmQgcGFydHkgPC9oaWdobGlnaHRzPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZWNobm9sb2d5VXNlZD5CaXRCdWNrZXQ8L3RlY2hub2xvZ3lVc2VkPgo=</text>
+        <text encoding="base64">aW5zdGFsbDogdHJhdmlzX3dhaXQgaW5zdGFsbCBtYXZlbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
