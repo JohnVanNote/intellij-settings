@@ -162,6 +162,12 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/LICENSE" timestamp="1550426899822">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/github/floyds-algorithm/.gitignore" timestamp="1509578225127">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,44 +228,44 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
+        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgSm9obiBWYW4gTm90ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IHR3ZWV0Ll9qc29uWyd0ZXh0J10uZW5jb2RlKCd1dGYtOCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjdHdlZXRfdGV4dCA9IGpzb24uZHVtcHModHdlZXQpLmVuY29kZSgndXRmLTgnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+        <text encoding="base64">ICAgIyBwcmludCBtYXJrb3ZfY2hhaW4uZ2V0X2RpY3Rpb25hcnkoKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAjLSBzdWRvIGFwdC1nZXQgaW5zdGFsbCB0ZXhsaXZlLWxhdGV4LWV4dHJhCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">c3VkbzogcmVxdWlyZWQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>branches:
   only:
   - travis</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo add-apt-repository ppa:webupd8team/java
   - sudo apt-get install -y oracle-java8-installer maven</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>before_install:
   - sudo apt-get update
   - sudo apt-get install -y maven</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW5zdGFsbDogdHJhdmlzX3dhaXQgaW5zdGFsbCBtYXZlbgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
         <text>bash</text>
@@ -272,8 +278,8 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
