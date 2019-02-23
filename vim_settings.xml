@@ -43,10 +43,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1550946576293">
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="313" column="0" />
-        <mark key="." line="313" column="0" />
+      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.xml" timestamp="1550947605866">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
@@ -149,9 +149,9 @@
         <mark key="." line="26" column="46" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1550446996050">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="82" column="2" />
-        <mark key="." line="82" column="2" />
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="81" column="2" />
+        <mark key="." line="81" column="2" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/VelocityPrinter.java" timestamp="1549218588333">
         <mark key="[" line="5" column="0" />
@@ -193,11 +193,6 @@
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/SimpleDate.java" timestamp="1550946783902">
         <mark key="[" line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/github/resume/data/JohnVanNoteResume.json" timestamp="1550435246665">
-        <mark key="[" line="41" column="22" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/Section.java" timestamp="1550946874254">
         <mark key="[" line="5" column="25" />
@@ -266,34 +261,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5TZXJpYWxpemF0aW9uRmVhdHVyZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNzwvcmVhZGFibGU+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>FileType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNzwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhZm9ybWF0LnhtbC5YbWxNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkZlYi4gMjAxNjwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0TWFwcGVyIHhtbE1hcHBlciA9IG5ldyBYbWxNYXBwZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxODwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgeG1sTWFwcGVyLmVuYWJsZShTZXJpYWxpemF0aW9uRmVhdHVyZS5JTkRFTlRfT1VUUFVUKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkp1bi4gMjAxMzwvcmVhZGFibGU+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAubWFwKG90aGVyVHlwZSAtPiBnZXRNYXBwZXIob3RoZXJUeXBlKSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPlNlcC4gMjAwODwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9iamVjdE1hcHBlciBtYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkphbi4gMjAxNTwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvL3ByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBKU09OX1JFU1VNRV9GSUxFID0gIkpvaG5WYW5Ob3RlUmVzdW1lLmpzb24iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk9jdC4gMjAxNDwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkZlYi4gMjAxNjwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNTwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
