@@ -103,10 +103,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomJsonFactory.java" timestamp="1550976452808">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1551026885970">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1551028032411">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/markov.py" timestamp="1550432522621">
         <mark key="[" line="16" column="21" />
@@ -200,8 +200,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeProperties.java" timestamp="1551026963836">
-        <mark key="[" line="2" column="30" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeProperties.java" timestamp="1551027965344">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1547408654304">
         <mark key="[" line="15" column="0" />
@@ -269,35 +271,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsK</text>
+        <text encoding="base64">ICAgIE9iamVjdHMucmVxdWlyZU5vbk51bGwocmVzdW1lRmlsZU5hbWUsIFN0cmluZy5mb3JtYXQoIlVuYWJsZSB0byBsb2NhdGUgZmlsZW5hbWUgcHJvcGVydHksIHBsZWFzZSB1cGRhdGUgcHJvcGVydGllcyBmaWxlOiAlcy4iLCBQUk9QX1BBVEgpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsK</text>
+        <text encoding="base64">ICAgIE9iamVjdHMucmVxdWlyZU5vbk51bGwocmVzdW1lRmlsZU5hbWUsIFN0cmluZy5mb3JtYXQoIlVuYWJsZSB0byBsb2NhdGUgZmlsZW5hbWUgcHJvcGVydHksIHBsZWFzZSB1cGRhdGUgcHJvcGVydGllcyBmaWxlOiAlcy4iLCBQUk9QX1BBVEgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJPUF9QQVRIID0gInJlc3VtZS5wcm9wZXJ0aWVzIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLnV0aWwuRGVmYXVsdFByZXR0eVByaW50ZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLnV0aWwuRGVmYXVsdEluZGVudGVyOwo=</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLkpzb25HZW5lcmF0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLnV0aWwuRGVmYXVsdFByZXR0eVByaW50ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLnV0aWwuRGVmYXVsdEluZGVudGVyOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLkpzb25HZW5lcmF0b3I7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBiZWZvcmVBcnJheVZhbHVlcyhKc29uR2VuZXJhdG9yIGcpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICBzdXBlci5iZWZvcmVBcnJheVZhbHVlcyhnKTsKICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IC8vRGVmYXVsdFByZXR0eVByaW50ZXIgcHJldHR5UHJpbnRlciA9IG5ldyBEZWZhdWx0UHJldHR5UHJpbnRlcigpOwogICAgLy9wcmV0dHlQcmludGVyLmluZGVudEFycmF5c1dpdGgoRGVmYXVsdEluZGVudGVyLlNZU1RFTV9MSU5FRkVFRF9JTlNUQU5DRSk7CiAgICAvL21hcHBlci53cml0ZXIocHJldHR5UHJpbnRlcik7</text>
-      </register>
       <register name="9" type="4">
-        <text>//..DefaultIndenter indenter = new DefaultIndenter();
-    //indenter.withLinefeed(DefaultIndenter.SYS_LF);</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBiZWZvcmVBcnJheVZhbHVlcyhKc29uR2VuZXJhdG9yIGcpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICBzdXBlci5iZWZvcmVBcnJheVZhbHVlcyhnKTsKICB9</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
