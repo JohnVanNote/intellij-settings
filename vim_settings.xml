@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/.gitignore" timestamp="1550425877805">
         <mark key="[" line="5" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1548212792512">
+      <file name="/a.dummy" timestamp="1550959392210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
@@ -28,6 +28,9 @@
       </file>
       <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1549590916688">
         <mark key="[" line="16" column="33" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrinter.java" timestamp="1550959379530">
+        <mark key="[" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
         <mark key="[" line="0" column="0" />
@@ -102,10 +105,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Properties.java" timestamp="1550439849483">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1550946107406">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" timestamp="1550962779789">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/markov.py" timestamp="1550432522621">
         <mark key="[" line="16" column="21" />
@@ -143,10 +146,10 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/MapperFactory.java" timestamp="1550946525845">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="46" />
-        <mark key="." line="26" column="46" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/MapperFactory.java" timestamp="1550963001964">
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1550446996050">
         <mark key="[" line="36" column="22" />
@@ -178,12 +181,6 @@
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/LICENSE" timestamp="1550426899822">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/github/floyds-algorithm/.gitignore" timestamp="1509578225127">
         <mark key="[" line="0" column="0" />
@@ -238,6 +235,11 @@
       <file name="$USER_HOME$/IdeaProjects/busted-brackets/src/main/java/org/jvn/bracketology/Team.java" timestamp="1519956531267">
         <mark key="[" line="2" column="18" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrettyPrinter.java" timestamp="1550959593543">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/septa/philly_loc.py" timestamp="1523221963594">
         <mark key="[" line="0" column="0" />
       </file>
@@ -263,41 +265,41 @@
       <jump line="20" column="120" filename="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNzwvcmVhZGFibGU+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIERlZmF1bHRQcmV0dHlQcmludGVyLkluZGVudGVyIGluZGVudGVyID0gbmV3IERlZmF1bHRJbmRlbnRlcihEZWZhdWx0SW5kZW50ZXIuU1lTX0xGKTsKICAgIGluZGVudGVyCiAgICBEZWZhdWx0UHJldHR5UHJpbnRlciBwcmV0dHlQcmludGVyID0gbmV3IERlZmF1bHRQcmV0dHlQcmludGVyKCk7CiAgICBwcmV0dHlQcmludGVyLmluZGVudEFycmF5c1dpdGgoKTs=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNzwvcmVhZGFibGU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CustomPrettyPrinter.INSTANCE</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkZlYi4gMjAxNjwvcmVhZGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNzwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxODwvcmVhZGFibGU+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkp1bi4gMjAxMzwvcmVhZGFibGU+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPlNlcC4gMjAwODwvcmVhZGFibGU+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkphbi4gMjAxNTwvcmVhZGFibGU+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk9jdC4gMjAxNDwvcmVhZGFibGU+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkZlYi4gMjAxNjwvcmVhZGFibGU+Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxODwvcmVhZGFibGU+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkp1bi4gMjAxMzwvcmVhZGFibGU+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPlNlcC4gMjAwODwvcmVhZGFibGU+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkphbi4gMjAxNTwvcmVhZGFibGU+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk9jdC4gMjAxNDwvcmVhZGFibGU+Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPk1hci4gMjAxNTwvcmVhZGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJlYWRhYmxlPkZlYi4gMjAxNjwvcmVhZGFibGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>FileType</text>
+        <text>CustomPrettyPrinter.INSTANCE</text>
       </register>
     </registers>
     <search>
