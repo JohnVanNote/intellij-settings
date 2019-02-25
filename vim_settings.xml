@@ -15,6 +15,11 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
         <mark key="[" line="3" column="63" />
       </file>
+      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1551062882177">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/MarkovChain.py" timestamp="1550432484239">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -269,7 +274,7 @@
         <text encoding="base64">ICAvKgogIHB1YmxpYyBzdGF0aWMgTGlzdDxPYmplY3RNYXBwZXI+IGdldE90aGVyTWFwcGVycyhTdHJpbmcgZmlsZXR5cGUpIHsKICAgIEZpbGVUeXBlIHR5cGUgPSBGaWxlVHlwZS5mcm9tVHlwZShmaWxldHlwZSk7CiAgICBMaXN0PEZpbGVUeXBlPiBvdGhlclR5cGVzID0gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoRmlsZVR5cGUudmFsdWVzKCkpKTsKICAgIG90aGVyVHlwZXMucmVtb3ZlKHR5cGUpOwogICAgcmV0dXJuIG90aGVyVHlwZXMKICAgICAgICAuc3RyZWFtKCkKICAgICAgICAubWFwKG90aGVyVHlwZSAtPiBnZXRNYXBwZXIob3RoZXJUeXBlKSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICB9CiAgICov</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKgogIHB1YmxpYyBzdGF0aWMgTGlzdDxPYmplY3RNYXBwZXI+IGdldE90aGVyTWFwcGVycyhTdHJpbmcgZmlsZXR5cGUpIHsKICAgIEZpbGVUeXBlIHR5cGUgPSBGaWxlVHlwZS5mcm9tVHlwZShmaWxldHlwZSk7CiAgICBMaXN0PEZpbGVUeXBlPiBvdGhlclR5cGVzID0gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoRmlsZVR5cGUudmFsdWVzKCkpKTsKICAgIG90aGVyVHlwZXMucmVtb3ZlKHR5cGUpOwogICAgcmV0dXJuIG90aGVyVHlwZXMKICAgICAgICAuc3RyZWFtKCkKICAgICAgICAubWFwKG90aGVyVHlwZSAtPiBnZXRNYXBwZXIob3RoZXJUeXBlKSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICB9CiAgICov</text>
+        <text>cache: packages</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGJhc2VGaWxlTmFtZSk7Cg==</text>
@@ -299,7 +304,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>ObjectMapper otherMapper</text>
+        <text>cache: packages</text>
       </register>
     </registers>
     <search>
