@@ -111,6 +111,11 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomJsonFactory.java" timestamp="1550976452808">
         <mark key="[" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinter_UnitTest.java" timestamp="1551407289385">
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="23" />
+        <mark key="." line="46" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/markov.py" timestamp="1550432522621">
         <mark key="[" line="16" column="21" />
       </file>
@@ -278,8 +283,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLnBvbGljeS5wcml2YXRldXRpbC5Qb2xpY3lVdGlscy5JTzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLnBvbGljeS5wcml2YXRldXRpbC5Qb2xpY3lVdGlscy5JTzsK</text>
+      <register name="&quot;" type="4">
+        <text>new String(outContent, charSet)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRUcnVlKCgoUHJpbnRlckltcGxlbWVudGF0aW9uKSBwcmludGVyKS5jYWxsZWQpOwo=</text>
@@ -309,7 +314,7 @@
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>new String(outContent, charSet)</text>
       </register>
     </registers>
     <search>
