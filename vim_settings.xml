@@ -9,8 +9,10 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/.gitignore" timestamp="1550425877805">
         <mark key="[" line="5" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1550977512877">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/ExperienceSection_UnitTest.java" timestamp="1551536643851">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
         <mark key="[" line="3" column="63" />
@@ -24,9 +26,6 @@
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Resume.java" timestamp="1550946894377">
-        <mark key="[" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
@@ -57,6 +56,11 @@
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/TechnicalSection_UnitTest.java" timestamp="1551536807941">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1546017350839">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="1" />
@@ -64,6 +68,11 @@
       </file>
       <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
         <mark key="[" line="203" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/EducationSection_UnitTest.java" timestamp="1551536754465">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/requirements.txt" timestamp="1550355519750">
         <mark key="[" line="1" column="0" />
@@ -235,9 +244,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/resume.properties" timestamp="1551051565029">
-        <mark key="[" line="0" column="30" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
@@ -281,40 +287,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLnBvbGljeS5wcml2YXRldXRpbC5Qb2xpY3lVdGlscy5JTzsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLkVkdWNhdGlvbjsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>new String(outContent, charSet)</text>
+        <text>Education</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRUcnVlKCgoUHJpbnRlckltcGxlbWVudGF0aW9uKSBwcmludGVyKS5jYWxsZWQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLndzLnBvbGljeS5wcml2YXRldXRpbC5Qb2xpY3lVdGlscy5JTzsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEFzc2VydC5hc3NlcnRUcnVlKCgoUHJpbnRlckltcGxlbWVudGF0aW9uKSBwcmludGVyKS5jYWxsZWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBwdWJsaWMgVmVsb2NpdHlQcmludGVyKEZpbGUgdGVtcGxhdGUsIEZpbGUgb3V0KSB7CiAgICB0aGlzLnNldFRlbXBsYXRlKHRlbXBsYXRlKTsKICAgIHRoaXMuc2V0T3V0KG91dCk7CiAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIFRvU3RyaW5nQnVpbGRlci5yZWZsZWN0aW9uVG9TdHJpbmcodGhpcyk7CiAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAvKgogIHB1YmxpYyBzdGF0aWMgTGlzdDxPYmplY3RNYXBwZXI+IGdldE90aGVyTWFwcGVycyhTdHJpbmcgZmlsZXR5cGUpIHsKICAgIEZpbGVUeXBlIHR5cGUgPSBGaWxlVHlwZS5mcm9tVHlwZShmaWxldHlwZSk7CiAgICBMaXN0PEZpbGVUeXBlPiBvdGhlclR5cGVzID0gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3QoRmlsZVR5cGUudmFsdWVzKCkpKTsKICAgIG90aGVyVHlwZXMucmVtb3ZlKHR5cGUpOwogICAgcmV0dXJuIG90aGVyVHlwZXMKICAgICAgICAuc3RyZWFtKCkKICAgICAgICAubWFwKG90aGVyVHlwZSAtPiBnZXRNYXBwZXIob3RoZXJUeXBlKSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICB9CiAgICov</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGJhc2VGaWxlTmFtZSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgWE1MX1JFU1VNRV9GSUxFID0gIkpvaG5WYW5Ob3RlUmVzdW1lLnhtbCI7Cg==</text>
+        <text encoding="base64">ICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGJhc2VGaWxlTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>new String(outContent, charSet)</text>
+        <text>Education</text>
       </register>
     </registers>
     <search>
