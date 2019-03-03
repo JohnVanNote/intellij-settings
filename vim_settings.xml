@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
+      <file name="/a.dummy" timestamp="1550977512877">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/MarkovChain.py" timestamp="1550432484239">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -14,8 +17,8 @@
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/date/SimpleDate.java" timestamp="1551636191668">
-        <mark key="[" line="26" column="2" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/date/SimpleDate.java" timestamp="1551642278690">
+        <mark key="[" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/date/SimpleData_UnitTest.java" timestamp="1551566331993">
         <mark key="[" line="2" column="33" />
@@ -179,6 +182,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Resume.java" timestamp="1550946894377">
+        <mark key="[" line="13" column="17" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551636043519">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
@@ -289,6 +295,9 @@
       </file>
       <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1549224792859">
         <mark key="[" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/github/resume/resume.properties" timestamp="1551051565029">
+        <mark key="[" line="0" column="30" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
         <mark key="[" line="15" column="2" />
