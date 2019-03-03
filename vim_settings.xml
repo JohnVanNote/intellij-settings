@@ -14,6 +14,9 @@
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/date/SimpleDate.java" timestamp="1551636191668">
+        <mark key="[" line="26" column="2" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/date/SimpleData_UnitTest.java" timestamp="1551566331993">
         <mark key="[" line="2" column="33" />
       </file>
@@ -176,8 +179,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551629168184">
-        <mark key="[" line="2" column="32" />
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551636043519">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="$USER_HOME$/github/resume/other.resume.properties" timestamp="1551051567627">
         <mark key="[" line="0" column="0" />
@@ -318,20 +323,24 @@
       <jump line="20" column="120" filename="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBleHBlY3RlZFRvU3RyaW5nID0gIiI7Cg==</text>
+      <register name="1" type="4">
+        <text>if (education == null) {
+       (education = new Education();
+    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>APRIL</text>
+        <text>if (education == null) {
+       (education = new Education();
+    }</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBleHBlY3RlZFRvU3RyaW5nID0gIiI7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLml0ZW0uQWRkcmVzczsK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLml0ZW0uQWRkcmVzczsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
@@ -342,8 +351,8 @@
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIFRvU3RyaW5nQnVpbGRlci5yZWZsZWN0aW9uVG9TdHJpbmcodGhpcyk7CiAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIFRvU3RyaW5nQnVpbGRlci5yZWZsZWN0aW9uVG9TdHJpbmcodGhpcyk7CiAgfQ==</text>
