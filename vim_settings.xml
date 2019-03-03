@@ -6,9 +6,6 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="/a.dummy" timestamp="1550977512877">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/MarkovChain.py" timestamp="1550432484239">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -17,8 +14,10 @@
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/date/SimpleDate.java" timestamp="1551642278690">
-        <mark key="[" line="32" column="2" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/date/SimpleDate.java" timestamp="1551644723702">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/date/SimpleData_UnitTest.java" timestamp="1551566331993">
         <mark key="[" line="2" column="33" />
@@ -182,13 +181,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Resume.java" timestamp="1550946894377">
-        <mark key="[" line="13" column="17" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551636043519">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
       </file>
       <file name="$USER_HOME$/github/resume/other.resume.properties" timestamp="1551051567627">
         <mark key="[" line="0" column="0" />
@@ -274,10 +270,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Address.java" timestamp="1551557530508">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Address.java" timestamp="1551644861549">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1541384681452">
         <mark key="[" line="0" column="0" />
@@ -295,9 +291,6 @@
       </file>
       <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1549224792859">
         <mark key="[" line="30" column="20" />
-      </file>
-      <file name="$USER_HOME$/github/resume/resume.properties" timestamp="1551051565029">
-        <mark key="[" line="0" column="30" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
         <mark key="[" line="15" column="2" />
@@ -333,44 +326,46 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>if (education == null) {
-       (education = new Education();
-    }</text>
+        <text>import com.jvn.resume.date.SimpleDate;
+import com.jvn.resume.date.SimpleDate.Builder;
+import java.time.Month</text>
       </register>
       <register name="&quot;" type="4">
+        <text>import com.jvn.resume.date.SimpleDate;
+import com.jvn.resume.date.SimpleDate.Builder;
+import java.time.Month</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBAR2V0dGVyCiAgQE5vQXJnc0NvbnN0cnVjdG9yCiAgcHVibGljIHN0YXRpYyBjbGFzcyBCdWlsZGVyIHsKICAgIHByaXZhdGUgU3RyaW5nIHN0cmVldDsKICAgIHByaXZhdGUgU3RyaW5nIGFkZGl0aW9uYWxTdHJlZXQ7CiAgICBwcml2YXRlIFN0cmluZyBjaXR5OwogICAgcHJpdmF0ZSBTdHJpbmcgc3RhdGU7CiAgICBwcml2YXRlIFN0cmluZyB6aXA7CgogICAgcHVibGljIEJ1aWxkZXIgc3RyZWV0KFN0cmluZyBzdHJlZXQpewogICAgICB0aGlzLnllYXIgPSB5ZWFyOwogICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBwdWJsaWMgU2ltcGxlRGF0ZS5CdWlsZGVyIG1vbnRoKE1vbnRoIG1vbnRoKSB7CiAgICAgIHRoaXMubW9udGggPSBtb250aDsKICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIFNpbXBsZURhdGUgYnVpbGQoKSB7CiAgICAgIHJldHVybiBuZXcgU2ltcGxlRGF0ZSh0aGlzKTsKICAgIH0KICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5BbGxBcmdzQ29uc3RydWN0b3I7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLnV0aWwuRGVmYXVsdFByZXR0eVByaW50ZXIuSW5kZW50ZXI7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>if (education == null) {
        (education = new Education();
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIFN0cmluZyBleHBlY3RlZFRvU3RyaW5nID0gIiI7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgIHJldHVybiBUb1N0cmluZ0J1aWxkZXIucmVmbGVjdGlvblRvU3RyaW5nKHRoaXMpOwogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucmVzdW1lLml0ZW0uQWRkcmVzczsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgcmV0dXJuIFRvU3RyaW5nQnVpbGRlci5yZWZsZWN0aW9uVG9TdHJpbmcodGhpcyk7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>APRIL</text>
+        <text encoding="base64">eWVhcihJbnRlZ2VyIHllYXIpIA==</text>
       </register>
     </registers>
     <search>
