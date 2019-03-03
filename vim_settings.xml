@@ -6,22 +6,6 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractTitledSection.java" timestamp="1541370058865">
         <mark key="[" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/.gitignore" timestamp="1550425877805">
-        <mark key="[" line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/ExperienceSection_UnitTest.java" timestamp="1551536643851">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
-        <mark key="[" line="3" column="63" />
-      </file>
-      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1551062882177">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/MarkovChain.py" timestamp="1550432484239">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -29,15 +13,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/.gitignore" timestamp="1523228088370">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/other.resume.properties" timestamp="1551051567627">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1549590916688">
-        <mark key="[" line="12" column="33" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrinter.java" timestamp="1550959379530">
-        <mark key="[" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/date/SimpleData_UnitTest.java" timestamp="1551566331993">
         <mark key="[" line="2" column="33" />
@@ -48,14 +23,6 @@
       <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinterUnitTest.java" timestamp="1547517561891">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/github/floyds-algorithm/makefile" timestamp="1509578896551">
         <mark key="[" line="21" column="29" />
       </file>
@@ -63,14 +30,6 @@
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="45" />
         <mark key="." line="10" column="45" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1546017350839">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="1" />
-        <mark key="." line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
-        <mark key="[" line="203" column="7" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/EducationSection_UnitTest.java" timestamp="1551536754465">
         <mark key="[" line="2" column="0" />
@@ -80,18 +39,10 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/requirements.txt" timestamp="1550355519750">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
-        <mark key="[" line="2" column="23" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Education.java" timestamp="1546017408542">
         <mark key="[" line="17" column="2" />
         <mark key="]" line="17" column="2" />
         <mark key="." line="17" column="2" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/DateRange.java" timestamp="1546017387150">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1550429406937">
         <mark key="[" line="11" column="6" />
@@ -101,26 +52,8 @@
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/.gitignore" timestamp="1508615379840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1551065505478">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="10" />
-        <mark key="." line="13" column="10" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/Printer_UnitTest.java" timestamp="1551238402735">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Properties.java" timestamp="1550439849483">
         <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomJsonFactory.java" timestamp="1550976452808">
-        <mark key="[" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Education.java" timestamp="1551557536707">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinter_UnitTest.java" timestamp="1551407289385">
         <mark key="[" line="46" column="23" />
@@ -130,25 +63,8 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/markov.py" timestamp="1550432522621">
         <mark key="[" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/Makefile" timestamp="1550425895600">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/AbstractItem.java" timestamp="1551557352458">
         <mark key="[" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
-        <mark key="[" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/Address_UnitTest.java" timestamp="1547920776174">
-        <mark key="[" line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedinConnection.java" timestamp="1541460408386">
-        <mark key="[" line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedIn.java" timestamp="1548290386059">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Main.java" timestamp="1546554843631">
         <mark key="[" line="7" column="0" />
@@ -156,9 +72,6 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/LICENSE.md" timestamp="1545680948304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Experience.java" timestamp="1546017434045">
@@ -176,9 +89,6 @@
         <mark key="]" line="86" column="2" />
         <mark key="." line="86" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/AbstractPrinter.java" timestamp="1551063372762">
-        <mark key="[" line="2" column="28" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Address_UnitTest.java" timestamp="1551579964778">
         <mark key="[" line="2" column="30" />
       </file>
@@ -190,37 +100,13 @@
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/PrinterUnitTest.java" timestamp="1547399621958">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1546016902805">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1551065534989">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Address.java" timestamp="1551557530508">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1541384681452">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/TechnicalSection.java" timestamp="1551065429053">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ToolSet.java" timestamp="1551235471529">
-        <mark key="[" line="14" column="27" />
-      </file>
       <file name="$USER_HOME$/github/floyds-algorithm/.gitignore" timestamp="1509578225127">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
-        <mark key="[" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/github/resume/templates/resume.vm" timestamp="1550953554535">
         <mark key="[" line="66" column="35" />
@@ -233,11 +119,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeProperties.java" timestamp="1551557730944">
-        <mark key="[" line="52" column="2" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/SimplePrinter.java" timestamp="1551063391510">
         <mark key="[" line="12" column="44" />
         <mark key="]" line="15" column="0" />
@@ -249,18 +130,10 @@
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplePrinterIntegrationTet.java" timestamp="1547520640311">
         <mark key="[" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1549224792859">
-        <mark key="[" line="30" column="20" />
-      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/ToolSet.java" timestamp="1546017486024">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/github/webcrawler/README.md" timestamp="1508202074414">
         <mark key="[" line="0" column="0" />
@@ -280,6 +153,142 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/philly_loc.py" timestamp="1523221963594">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/DateRange.java" timestamp="1551065625284">
+        <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/knights-tour/.gitignore" timestamp="1544483977752">
+        <mark key="[" line="93" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/.gitignore" timestamp="1550425877805">
+        <mark key="[" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/ExperienceSection_UnitTest.java" timestamp="1551536643851">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="45" />
+        <mark key="." line="10" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/twitter_keys.properties" timestamp="1542686086109">
+        <mark key="[" line="3" column="63" />
+      </file>
+      <file name="$USER_HOME$/github/resume/.travis.yml" timestamp="1551062882177">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551629168184">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/github/resume/other.resume.properties" timestamp="1551051567627">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1549590916688">
+        <mark key="[" line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrinter.java" timestamp="1550959379530">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinterUnitTest.java" timestamp="1547517561891">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Address.java" timestamp="1546017350839">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/github/resume/.gitignore" timestamp="1543373607276">
+        <mark key="[" line="203" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/DateRange.java" timestamp="1546017387150">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1551065505478">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/Printer_UnitTest.java" timestamp="1551238402735">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomJsonFactory.java" timestamp="1550976452808">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Education.java" timestamp="1551557536707">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/Makefile" timestamp="1550425895600">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/webcrawler/build.xml" timestamp="1508204307969">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/Address_UnitTest.java" timestamp="1547920776174">
+        <mark key="[" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedinConnection.java" timestamp="1541460408386">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedIn.java" timestamp="1548290386059">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/LICENSE.md" timestamp="1545680948304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/AbstractPrinter.java" timestamp="1551063372762">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/Personal.java" timestamp="1546016902805">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1551065534989">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Address.java" timestamp="1551557530508">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541384681452">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ToolSet.java" timestamp="1551235471529">
+        <mark key="[" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeSection.java" timestamp="1532310573508">
+        <mark key="[" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeProperties.java" timestamp="1551557730944">
+        <mark key="[" line="52" column="2" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1549224792859">
+        <mark key="[" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/SimpleDate.java" timestamp="1546017467761">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractSection.java" timestamp="1550977588955">
         <mark key="[" line="2" column="0" />
@@ -301,14 +310,8 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/DateRange.java" timestamp="1551065625284">
-        <mark key="[" line="17" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1544481615699">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/knights-tour/.gitignore" timestamp="1544483977752">
-        <mark key="[" line="93" column="11" />
       </file>
     </filemarks>
     <jumps>
