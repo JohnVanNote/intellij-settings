@@ -197,10 +197,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Resume.java" timestamp="1550946894377">
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551656558458">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551657467515">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/test/util/ToStringUtil.java" timestamp="1551656394139">
         <mark key="[" line="2" column="26" />
@@ -324,8 +324,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Experience.java" timestamp="1551557541827">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Experience.java" timestamp="1551657571442">
+        <mark key="[" line="10" column="17" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -347,39 +347,37 @@
       <jump line="20" column="120" filename="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIFNpbXBsZURhdGUgc3RhcnREYXRlID0gU2ltcGxlRGF0ZS5idWlsZGVyKCkubW9udGgoTW9udGguSkFOVUFSWSkueWVhcigxOTgzKS5idWlsZCgpOwogICAgU2ltcGxlRGF0ZSBlbmREYXRlID0gU2ltcGxlRGF0ZS5idWlsZGVyKCkubW9udGgoTW9udGguRkVCUlVBUlkpLnllYXIoMTk4NCkuYnVpbGQoKTsKICAgIERhdGVSYW5nZSB0ZW51cmUgPSBEYXRlUmFuZ2UuYnVpbGRlcigpLnN0YXJ0RGF0ZShzdGFydERhdGUpLmVuZERhdGUoZW5kRGF0ZSkuYnVpbGQoKTsKCiAgICBBZGRyZXNzIGFkZHJlc3MgPSBBZGRyZXNzLmJ1aWxkZXIoKQogICAgICAgIC5zdHJlZXQoIjEzNSBTdHJpbmcgU3QuIikKICAgICAgICAuYWRkaXRpb25hbFN0cmVldCgiQXB0LiAyMmIiKQogICAgICAgIC5jaXR5KCJQb3J0bGFuZCIpCiAgICAgICAgLnN0YXRlKCJPUiIpCiAgICAgICAgLnppcCgiU29tZSBPcmVnb24gWmlwIikKICAgICAgICAuYnVpbGQoKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAiIik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIFNpbXBsZURhdGUgc3RhcnREYXRlID0gU2ltcGxlRGF0ZS5idWlsZGVyKCkubW9udGgoTW9udGguSkFOVUFSWSkueWVhcigxOTgzKS5idWlsZCgpOwogICAgU2ltcGxlRGF0ZSBlbmREYXRlID0gU2ltcGxlRGF0ZS5idWlsZGVyKCkubW9udGgoTW9udGguRkVCUlVBUlkpLnllYXIoMTk4NCkuYnVpbGQoKTsKICAgIERhdGVSYW5nZSB0ZW51cmUgPSBEYXRlUmFuZ2UuYnVpbGRlcigpLnN0YXJ0RGF0ZShzdGFydERhdGUpLmVuZERhdGUoZW5kRGF0ZSkuYnVpbGQoKTsKCiAgICBBZGRyZXNzIGFkZHJlc3MgPSBBZGRyZXNzLmJ1aWxkZXIoKQogICAgICAgIC5zdHJlZXQoIjEzNSBTdHJpbmcgU3QuIikKICAgICAgICAuYWRkaXRpb25hbFN0cmVldCgiQXB0LiAyMmIiKQogICAgICAgIC5jaXR5KCJQb3J0bGFuZCIpCiAgICAgICAgLnN0YXRlKCJPUiIpCiAgICAgICAgLnppcCgiU29tZSBPcmVnb24gWmlwIikKICAgICAgICAuYnVpbGQoKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiIik7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICB0ZW51cmUuc2V0U3RhcnREYXRlKHN0YXJ0RGF0ZSk7CiAgICB0ZW51cmUuc2V0RW5kRGF0ZShlbmREYXRlKTs=</text>
+        <text encoding="base64">ICAgIFNpbXBsZURhdGUgc3RhcnREYXRlID0gU2ltcGxlRGF0ZS5idWlsZGVyKCkubW9udGgoTW9udGguSkFOVUFSWSkueWVhcigxOTgzKS5idWlsZCgpOwogICAgU2ltcGxlRGF0ZSBlbmREYXRlID0gU2ltcGxlRGF0ZS5idWlsZGVyKCkubW9udGgoTW9udGguRkVCUlVBUlkpLnllYXIoMTk4NCkuYnVpbGQoKTsKICAgIERhdGVSYW5nZSB0ZW51cmUgPSBEYXRlUmFuZ2UuYnVpbGRlcigpLnN0YXJ0RGF0ZShzdGFydERhdGUpLmVuZERhdGUoZW5kRGF0ZSkuYnVpbGQoKTsKCiAgICBBZGRyZXNzIGFkZHJlc3MgPSBBZGRyZXNzLmJ1aWxkZXIoKQogICAgICAgIC5zdHJlZXQoIjEzNSBTdHJpbmcgU3QuIikKICAgICAgICAuYWRkaXRpb25hbFN0cmVldCgiQXB0LiAyMmIiKQogICAgICAgIC5jaXR5KCJQb3J0bGFuZCIpCiAgICAgICAgLnN0YXRlKCJPUiIpCiAgICAgICAgLnppcCgiU29tZSBPcmVnb24gWmlwIikKICAgICAgICAuYnVpbGQoKTs=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICB0ZW51cmUuc2V0U3RhcnREYXRlKHN0YXJ0RGF0ZSk7CiAgICB0ZW51cmUuc2V0RW5kRGF0ZShlbmREYXRlKTs=</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAvKgogIHByaXZhdGUgU2ltcGxlRGF0ZShCdWlsZGVyIGJ1aWxkZXIpIHsKICAgIHRoaXMuc2V0WWVhcihidWlsZGVyLmdldFllYXIoKSk7CiAgICB0aGlzLnNldE1vbnRoKGJ1aWxkZXIuZ2V0TW9udGgoKSk7CiAgfQogICov</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>import com.jvn.resume.date.SimpleDate;
 import com.jvn.resume.date.SimpleDate.Builder;
 import java.time.Month</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBAR2V0dGVyCiAgQE5vQXJnc0NvbnN0cnVjdG9yCiAgcHVibGljIHN0YXRpYyBjbGFzcyBCdWlsZGVyIHsKICAgIHByaXZhdGUgU3RyaW5nIHN0cmVldDsKICAgIHByaXZhdGUgU3RyaW5nIGFkZGl0aW9uYWxTdHJlZXQ7CiAgICBwcml2YXRlIFN0cmluZyBjaXR5OwogICAgcHJpdmF0ZSBTdHJpbmcgc3RhdGU7CiAgICBwcml2YXRlIFN0cmluZyB6aXA7CgogICAgcHVibGljIEJ1aWxkZXIgc3RyZWV0KFN0cmluZyBzdHJlZXQpewogICAgICB0aGlzLnllYXIgPSB5ZWFyOwogICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBwdWJsaWMgU2ltcGxlRGF0ZS5CdWlsZGVyIG1vbnRoKE1vbnRoIG1vbnRoKSB7CiAgICAgIHRoaXMubW9udGggPSBtb250aDsKICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIFNpbXBsZURhdGUgYnVpbGQoKSB7CiAgICAgIHJldHVybiBuZXcgU2ltcGxlRGF0ZSh0aGlzKTsKICAgIH0KICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGxvbWJvay5BbGxBcmdzQ29uc3RydWN0b3I7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLnV0aWwuRGVmYXVsdFByZXR0eVByaW50ZXIuSW5kZW50ZXI7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>if (education == null) {
-       (education = new Education();
-    }</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
