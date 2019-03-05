@@ -202,8 +202,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/integertowords/src/test/java/com/jvn/IntegerToWords_UnitTest.java" timestamp="1551747790561">
-        <mark key="[" line="4" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/integertowords/src/test/java/com/jvn/IntegerToWords_UnitTest.java" timestamp="1551749511727">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/EducationSection.java" timestamp="1551065505478">
         <mark key="[" line="12" column="0" />
@@ -308,42 +310,41 @@
       <jump line="20" column="120" filename="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRvV29yZHNfWmVybygpIHsKICAgIEFzc2VydC5hc3NlcnRFcXVhbHModG9Xb3JkcygwKSwgInplcm8iKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdG9Xb3Jkc19PbmUoKSB7CiAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHRvV29yZHMoMSksICJvbmUiKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdG9Xb3Jkc19FbGV2ZW4oKSB7CiAgICAKICB9</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRvV29yZHNfWmVybygpIHsKICAgIEFzc2VydC5hc3NlcnRFcXVhbHModG9Xb3JkcygwKSwgInplcm8iKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdG9Xb3Jkc19PbmUoKSB7CiAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHRvV29yZHMoMSksICJvbmUiKTsKICB9CgogIEBUZXN0CiAgcHVibGljIHZvaWQgdG9Xb3Jkc19FbGV2ZW4oKSB7CiAgICAKICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEJ1aWxkZXIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuY29sbGVjdGlvbnMuT2JqZWN0czsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob25OdWxsOwo=</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuQXNzZXJ0Owo=</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhY3R1YWxUb1N0cmluZyA9IERBVEUudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob25OdWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ub1N0cmluZzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuQXNzZXJ0Owo=</text>
       </register>
-      <register name="9" type="4">
-        <text>));
-    Assert.assertTrue(actualToString.contains(</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBhY3R1YWxUb1N0cmluZyA9IERBVEUudG9TdHJpbmcoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5idWlsZGVyLlRvU3RyaW5nQnVpbGRlcjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ub1N0cmluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHJpbmcgYWN0dWFsVG9TdHJpbmcgPSA=</text>
+        <text />
       </register>
     </registers>
     <search>
