@@ -9,8 +9,16 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/.gitignore" timestamp="1550425877805">
         <mark key="[" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/github/dotfiles/files/shell/aliases.sh" timestamp="1552160797653">
+        <mark key="[" line="22" column="26" />
+      </file>
       <file name="/a.dummy" timestamp="1550977512877">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/files/global_git_config" timestamp="1552160176141">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/section/ExperienceSection_UnitTest.java" timestamp="1551668934038">
         <mark key="[" line="13" column="7" />
@@ -35,6 +43,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/github/dotfiles/files/bash_prompt" timestamp="1552159994202">
+        <mark key="[" line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Education_UnitTest.java" timestamp="1551657467515">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -52,6 +63,9 @@
       <file name="$USER_HOME$/github/resume/out/JohnVanNoteResume.tex" timestamp="1549590916688">
         <mark key="[" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/github/dotfiles/files/muttrc" timestamp="1552160184429">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrinter.java" timestamp="1550959379530">
         <mark key="[" line="2" column="26" />
       </file>
@@ -64,6 +78,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/septa/findStops.py" timestamp="1523221847275">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/files/env_vars" timestamp="1552160025631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
@@ -93,6 +110,11 @@
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/ResumeMain.java" timestamp="1532310927829">
         <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/src/link_files.py" timestamp="1552160675479">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/send_tweet.py" timestamp="1550429406937">
         <mark key="[" line="11" column="6" />
@@ -129,7 +151,7 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/github/dotfiles/files/aliases" timestamp="1552159612261">
-        <mark key="[" line="6" column="42" />
+        <mark key="[" line="5" column="42" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplerPrinter_UnitTest.java" timestamp="1551407289385">
         <mark key="[" line="46" column="23" />
@@ -154,8 +176,11 @@
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/Address_UnitTest.java" timestamp="1547920776174">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/github/dotfiles/Makefile" timestamp="1552159664740">
+      <file name="$USER_HOME$/github/dotfiles/Makefile" timestamp="1552159822266">
         <mark key="[" line="22" column="27" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/files/shell/bash_prompt.sh" timestamp="1552160899591">
+        <mark key="[" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/linkedin/LinkedinConnection.java" timestamp="1541460408386">
         <mark key="[" line="2" column="32" />
@@ -174,6 +199,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/github/dotfiles/src/build_vim.sh" timestamp="1552160604390">
+        <mark key="[" line="12" column="10" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1551235181351">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="86" column="2" />
@@ -183,6 +211,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/files/shell/bash_profile.sh" timestamp="1552160861040">
+        <mark key="[" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Experience_UnitTest.java" timestamp="1551665666727">
         <mark key="[" line="34" column="0" />
@@ -199,6 +230,11 @@
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/PrinterUnitTest.java" timestamp="1547399621958">
         <mark key="[" line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/files/aliases_git" timestamp="1552159945813">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/ExperienceSection.java" timestamp="1551668864623">
         <mark key="[" line="10" column="0" />
@@ -253,6 +289,9 @@
       <file name="$USER_HOME$/github/resume/pom.xml" timestamp="1549224792859">
         <mark key="[" line="30" column="20" />
       </file>
+      <file name="$USER_HOME$/github/dotfiles/files/bash_profile" timestamp="1552159960156">
+        <mark key="[" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/github/resume/resume.properties" timestamp="1551051565029">
         <mark key="[" line="0" column="30" />
       </file>
@@ -266,6 +305,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/busted-brackets/src/main/java/org/jvn/bracketology/Team.java" timestamp="1519956531267">
         <mark key="[" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/github/dotfiles/files/shell/global_git_config.sh" timestamp="1552161136954">
+        <mark key="[" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrettyPrinter.java" timestamp="1550977206780">
         <mark key="[" line="2" column="0" />
@@ -318,35 +360,35 @@
       <jump line="20" column="120" filename="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgU3RyaW5nPiBiYXNlTWFwKCkgewogICAgTWFwPEludGVnZXIsIFN0cmluZz4gYmFzZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJhc2UucHV0KDAsICIiKTsKICAgIGJhc2UucHV0KDEsICJvbmUiKTsKICAgIGJhc2UucHV0KDIsICJ0d28iKTsKICAgIGJhc2UucHV0KDMsICJ0aHJlZSIpOwogICAgYmFzZS5wdXQoNCwgImZvdXIiKTsKICAgIGJhc2UucHV0KDUsICJmaXZlIik7CiAgICBiYXNlLnB1dCg2LCAic2l4Iik7CiAgICBiYXNlLnB1dCg3LCAic2V2ZW4iKTsKICAgIGJhc2UucHV0KDgsICJlaWdodCIpOwogICAgYmFzZS5wdXQoOSwgIm5pbmUiKTsKICAgIGJhc2UucHV0KDEwLCAidGVuIik7CiAgICBiYXNlLnB1dCgxMSwgImVsZXZlbiIpOwogICAgYmFzZS5wdXQoMTIsICJ0d2VsdmUiKTsKICAgIGJhc2UucHV0KDEzLCAidGhpcnRlZW4iKTsKICAgIGJhc2UucHV0KDE0LCAiZm91cnRlZW4iKTsKICAgIGJhc2UucHV0KDE1LCAiZmlmdGVlbiIpOwogICAgYmFzZS5wdXQoMTYsICJzaXh0ZWVuIik7CiAgICBiYXNlLnB1dCgxNywgInNldmVudGVlbiIpOwogICAgYmFzZS5wdXQoMTgsICJlaWdodGVlbiIpOwogICAgYmFzZS5wdXQoMTksICJuaW5ldGVlbiIpOwogICAgYmFzZS5wdXQoMjAsICJ0d2VudHkiKTsKICAgIGJhc2UucHV0KDMwLCAidGhpcnR5Iik7CiAgICBiYXNlLnB1dCg0MCwgImZvcnR5Iik7CiAgICBiYXNlLnB1dCg1MCwgImZpZnR5Iik7CiAgICBiYXNlLnB1dCg2MCwgInNpeHR5Iik7CiAgICBiYXNlLnB1dCg3MCwgInNldmVudHkiKTsKICAgIGJhc2UucHV0KDgwLCAiZWlnaHR5Iik7CiAgICBiYXNlLnB1dCg5MCwgIm5pbmV0eSIpOwogICAgcmV0dXJuIGJhc2U7CiAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgU3RyaW5nPiBiYXNlTWFwKCkgewogICAgTWFwPEludGVnZXIsIFN0cmluZz4gYmFzZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJhc2UucHV0KDAsICIiKTsKICAgIGJhc2UucHV0KDEsICJvbmUiKTsKICAgIGJhc2UucHV0KDIsICJ0d28iKTsKICAgIGJhc2UucHV0KDMsICJ0aHJlZSIpOwogICAgYmFzZS5wdXQoNCwgImZvdXIiKTsKICAgIGJhc2UucHV0KDUsICJmaXZlIik7CiAgICBiYXNlLnB1dCg2LCAic2l4Iik7CiAgICBiYXNlLnB1dCg3LCAic2V2ZW4iKTsKICAgIGJhc2UucHV0KDgsICJlaWdodCIpOwogICAgYmFzZS5wdXQoOSwgIm5pbmUiKTsKICAgIGJhc2UucHV0KDEwLCAidGVuIik7CiAgICBiYXNlLnB1dCgxMSwgImVsZXZlbiIpOwogICAgYmFzZS5wdXQoMTIsICJ0d2VsdmUiKTsKICAgIGJhc2UucHV0KDEzLCAidGhpcnRlZW4iKTsKICAgIGJhc2UucHV0KDE0LCAiZm91cnRlZW4iKTsKICAgIGJhc2UucHV0KDE1LCAiZmlmdGVlbiIpOwogICAgYmFzZS5wdXQoMTYsICJzaXh0ZWVuIik7CiAgICBiYXNlLnB1dCgxNywgInNldmVudGVlbiIpOwogICAgYmFzZS5wdXQoMTgsICJlaWdodGVlbiIpOwogICAgYmFzZS5wdXQoMTksICJuaW5ldGVlbiIpOwogICAgYmFzZS5wdXQoMjAsICJ0d2VudHkiKTsKICAgIGJhc2UucHV0KDMwLCAidGhpcnR5Iik7CiAgICBiYXNlLnB1dCg0MCwgImZvcnR5Iik7CiAgICBiYXNlLnB1dCg1MCwgImZpZnR5Iik7CiAgICBiYXNlLnB1dCg2MCwgInNpeHR5Iik7CiAgICBiYXNlLnB1dCg3MCwgInNldmVudHkiKTsKICAgIGJhc2UucHV0KDgwLCAiZWlnaHR5Iik7CiAgICBiYXNlLnB1dCg5MCwgIm5pbmV0eSIpOwogICAgcmV0dXJuIGJhc2U7CiAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0W11bXSBudW1iYXMyKCkgewogICAgcmV0dXJuIG5ldyAgT2JqZWN0W11bXXt7MjEsICJ0d2VudHkgb25lIn19OwogIH0K</text>
+        <text encoding="base64">IyAyMDE3LTAzLTIxCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">IyBUaGUgLmdpdGh1YiBkb3RmaWxlIGlzIGZvciBnaXRodWIgY29uZmlndXJhdGlvbnMuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZXF1ZSk7Cg==</text>
+        <text encoding="base64">IyBUaGlzIGlzIHNwZWNpZmljYWxseSBmb3IgZ2l0IGFsaWFzZXMK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmluZy5yZXZlcnNlKCk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgU3RyaW5nPiBiYXNlTWFwKCkgewogICAgTWFwPEludGVnZXIsIFN0cmluZz4gYmFzZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJhc2UucHV0KDAsICIiKTsKICAgIGJhc2UucHV0KDEsICJvbmUiKTsKICAgIGJhc2UucHV0KDIsICJ0d28iKTsKICAgIGJhc2UucHV0KDMsICJ0aHJlZSIpOwogICAgYmFzZS5wdXQoNCwgImZvdXIiKTsKICAgIGJhc2UucHV0KDUsICJmaXZlIik7CiAgICBiYXNlLnB1dCg2LCAic2l4Iik7CiAgICBiYXNlLnB1dCg3LCAic2V2ZW4iKTsKICAgIGJhc2UucHV0KDgsICJlaWdodCIpOwogICAgYmFzZS5wdXQoOSwgIm5pbmUiKTsKICAgIGJhc2UucHV0KDEwLCAidGVuIik7CiAgICBiYXNlLnB1dCgxMSwgImVsZXZlbiIpOwogICAgYmFzZS5wdXQoMTIsICJ0d2VsdmUiKTsKICAgIGJhc2UucHV0KDEzLCAidGhpcnRlZW4iKTsKICAgIGJhc2UucHV0KDE0LCAiZm91cnRlZW4iKTsKICAgIGJhc2UucHV0KDE1LCAiZmlmdGVlbiIpOwogICAgYmFzZS5wdXQoMTYsICJzaXh0ZWVuIik7CiAgICBiYXNlLnB1dCgxNywgInNldmVudGVlbiIpOwogICAgYmFzZS5wdXQoMTgsICJlaWdodGVlbiIpOwogICAgYmFzZS5wdXQoMTksICJuaW5ldGVlbiIpOwogICAgYmFzZS5wdXQoMjAsICJ0d2VudHkiKTsKICAgIGJhc2UucHV0KDMwLCAidGhpcnR5Iik7CiAgICBiYXNlLnB1dCg0MCwgImZvcnR5Iik7CiAgICBiYXNlLnB1dCg1MCwgImZpZnR5Iik7CiAgICBiYXNlLnB1dCg2MCwgInNpeHR5Iik7CiAgICBiYXNlLnB1dCg3MCwgInNldmVudHkiKTsKICAgIGJhc2UucHV0KDgwLCAiZWlnaHR5Iik7CiAgICBiYXNlLnB1dCg5MCwgIm5pbmV0eSIpOwogICAgcmV0dXJuIGJhc2U7CiAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICBpbnQgeCA9IDMyMTsKCiAgICBTeXN0ZW0ub3V0LnByaW50bG4oKHggJSAxMDApLzEwKjEwKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwoKICAgIHRvV29yZHMoMjEpOwogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwdWJsaWMgT2JqZWN0W11bXSBudW1iYXMyKCkgewogICAgcmV0dXJuIG5ldyAgT2JqZWN0W11bXXt7MjEsICJ0d2VudHkgb25lIn19OwogIH0K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICBkZXF1ZS5wdXNoKHNlY29uZFR3b0RpZ2l0c1dvcmQpOwogICAgICB9</text>
+        <text encoding="base64">CgogICAg</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBpbnQgc2Vjb25kRGlnaXQgPSAoZGlnaXRzIC8gMTApICogMTA7IC8vIERpdmlkaW5nIGJ5IDEwIGFuZCBtdWx0aXBseWluZyBieSB0ZW4gdG8gbG9zZSB0aGUgcmVtYWluZGVyCiAgICAgICAgU3RyaW5nIHNlY29uZERpZ2l0V29yZCA9IHRvV29yZEJhc2Uoc2Vjb25kRGlnaXQpOwogICAgICAgIGRlcXVlLnB1c2goc2Vjb25kRGlnaXRXb3JkKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZXF1ZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgc3RhdGljIFN0cmluZyB0b1dvcmRUZW5zKGludCBudW1iZXIpIHsKICAgIGludCBtaW4gPSAwOwogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHN0cmluZy5yZXZlcnNlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
