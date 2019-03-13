@@ -297,11 +297,20 @@
       <file name="$USER_HOME$/github/dotfiles/src/build_vim.sh" timestamp="1552160604390">
         <mark key="[" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/main/java/com/jvn/IntegerToWordsFunctional.java" timestamp="1552353053279" />
+      <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/main/java/com/jvn/IntegerToWordsFunctional.java" timestamp="1552358851305">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/item/Experience_UnitTest.java" timestamp="1551665666727">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/main/java/com/jvn/IntegerToWordsConstants.java" timestamp="1552358009209">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/AbstractPrinter.java" timestamp="1551665415512">
         <mark key="[" line="1" column="0" />
@@ -374,40 +383,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG5vblBvc2l0aXZlTnVtYmVyID4gMCkgQXNzZXJ0LmZhaWwoIlRoaXMgdGVzdCBpcyBtZWFudCBmb3Igbm9uLW5lZ2F0aXZlIG51bWJlciBpbnB1dHMsIHRoZXkgd2lsbCBiZSBjb252ZXJ0ZWQgdG8gbm9uLXBvc2l0aXZpZSIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>one sextillio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIE9iamVjdCBub25Qb3NpdGl2aWVOdW1iZXIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBmaW5hbCBNYXA8SW50ZWdlciwgU3RyaW5nPiBwbGFjZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIHBsYWNlLnB1dCgwLCAiIik7CiAgICBwbGFjZS5wdXQoMSwgInRob3VzYW5kIik7CiAgICBwbGFjZS5wdXQoMiwgIm1pbGxpb24iKTsKICAgIHBsYWNlLnB1dCgzLCAiYmlsbGlvbiIpOwogICAgcGxhY2UucHV0KDQsICJ0cmlsbGlvbiIpOwogICAgcGxhY2UucHV0KDUsICJxdWFkcmlsbGlvbiI=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBCaWdJbnRlZ2VyIEhVTkRSRUQgPSBCaWdJbnRlZ2VyLnZhbHVlT2YoMTAwKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKG5vblBvc2l0aXZlTnVtYmVyID4gMCkgQXNzZXJ0LmZhaWwoIlRoaXMgdGVzdCBpcyBtZWFudCBmb3Igbm9uLW5lZ2F0aXZlIG51bWJlciBpbnB1dHMsIHRoZXkgd2lsbCBiZSBjb252ZXJ0ZWQgdG8gbm9uLXBvc2l0aXZpZSIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChub25OZWdhdGl2ZU51bWJlciA8IDApIEFzc2VydC5mYWlsKCJUaGlzIHRlc3QgaXMgbWVhbnQgZm9yIG5vbi1uZWdhdGl2ZSBudW1iZXJzIik7Cg==</text>
+        <text encoding="base64">ICAgIE9iamVjdCBub25Qb3NpdGl2aWVOdW1iZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBCaWdJbnRlZ2VyIEhVTkRSRUQgPSBCaWdJbnRlZ2VyLnZhbHVlT2YoMTAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAyMDE3LTAzLTIxCg==</text>
+        <text encoding="base64">ICAgIGlmIChub25OZWdhdGl2ZU51bWJlciA8IDApIEFzc2VydC5mYWlsKCJUaGlzIHRlc3QgaXMgbWVhbnQgZm9yIG5vbi1uZWdhdGl2ZSBudW1iZXJzIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUaGUgLmdpdGh1YiBkb3RmaWxlIGlzIGZvciBnaXRodWIgY29uZmlndXJhdGlvbnMuCg==</text>
+        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBUaGlzIGlzIHNwZWNpZmljYWxseSBmb3IgZ2l0IGFsaWFzZXMK</text>
+        <text encoding="base64">IyAyMDE3LTAzLTIxCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgU3RyaW5nPiBiYXNlTWFwKCkgewogICAgTWFwPEludGVnZXIsIFN0cmluZz4gYmFzZSA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGJhc2UucHV0KDAsICIiKTsKICAgIGJhc2UucHV0KDEsICJvbmUiKTsKICAgIGJhc2UucHV0KDIsICJ0d28iKTsKICAgIGJhc2UucHV0KDMsICJ0aHJlZSIpOwogICAgYmFzZS5wdXQoNCwgImZvdXIiKTsKICAgIGJhc2UucHV0KDUsICJmaXZlIik7CiAgICBiYXNlLnB1dCg2LCAic2l4Iik7CiAgICBiYXNlLnB1dCg3LCAic2V2ZW4iKTsKICAgIGJhc2UucHV0KDgsICJlaWdodCIpOwogICAgYmFzZS5wdXQoOSwgIm5pbmUiKTsKICAgIGJhc2UucHV0KDEwLCAidGVuIik7CiAgICBiYXNlLnB1dCgxMSwgImVsZXZlbiIpOwogICAgYmFzZS5wdXQoMTIsICJ0d2VsdmUiKTsKICAgIGJhc2UucHV0KDEzLCAidGhpcnRlZW4iKTsKICAgIGJhc2UucHV0KDE0LCAiZm91cnRlZW4iKTsKICAgIGJhc2UucHV0KDE1LCAiZmlmdGVlbiIpOwogICAgYmFzZS5wdXQoMTYsICJzaXh0ZWVuIik7CiAgICBiYXNlLnB1dCgxNywgInNldmVudGVlbiIpOwogICAgYmFzZS5wdXQoMTgsICJlaWdodGVlbiIpOwogICAgYmFzZS5wdXQoMTksICJuaW5ldGVlbiIpOwogICAgYmFzZS5wdXQoMjAsICJ0d2VudHkiKTsKICAgIGJhc2UucHV0KDMwLCAidGhpcnR5Iik7CiAgICBiYXNlLnB1dCg0MCwgImZvcnR5Iik7CiAgICBiYXNlLnB1dCg1MCwgImZpZnR5Iik7CiAgICBiYXNlLnB1dCg2MCwgInNpeHR5Iik7CiAgICBiYXNlLnB1dCg3MCwgInNldmVudHkiKTsKICAgIGJhc2UucHV0KDgwLCAiZWlnaHR5Iik7CiAgICBiYXNlLnB1dCg5MCwgIm5pbmV0eSIpOwogICAgcmV0dXJuIGJhc2U7CiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyBUaGUgLmdpdGh1YiBkb3RmaWxlIGlzIGZvciBnaXRodWIgY29uZmlndXJhdGlvbnMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>one sextillio</text>
+        <text>String</text>
       </register>
     </registers>
     <search>
