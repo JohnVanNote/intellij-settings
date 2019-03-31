@@ -112,10 +112,10 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/CustomPrinter.java" timestamp="1550959379530">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/test/java/com/jvn/IntegerToWordsObjectOriented_UnitTest.java" timestamp="1553391439225">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/test/java/com/jvn/IntegerToWordsObjectOriented_UnitTest.java" timestamp="1554052123490">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/PaperResume.java" timestamp="1541365875159">
         <mark key="[" line="2" column="24" />
@@ -242,40 +242,40 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IDxtZXRob2Qtc2VsZWN0b3JzPgogICAgICA8bWV0aG9kLXNlbGVjdG9yPgogICAgICAgIDxzY3JpcHQgbGFuZ3VhZ2U9ImJlYW5zaGVsbCI+PCFbQ0RBVEFbCiAgICAgICAgbWV0aG9kLmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpLmNvbnRhaW5zKCJVbml0VGVzdCIpOwogICAgICAgXV0+PC9zY3JpcHQ+CiAgICAgIDwvbWV0aG9kLXNlbGVjdG9yPgogICAgPC9tZXRob2Qtc2VsZWN0b3JzPg==</text>
+        <text encoding="base64">ICAgICBpZiAobm9uUG9zaXRpdmVOdW0uZXF1YWxzKEJpZ0ludGVnZXIuWkVSTykpIEFzc2VydC5hc3NlcnRFcXVhbHModG9Xb3Jkcyhub25Qb3NpdGl2ZU51bSksIHdvcmRzKTsKICAgICAgZWxzZSBBc3NlcnQuYXNzZXJ0RXF1YWxzKHRvV29yZHMobm9uUG9zaXRpdmVOdW0pLCAibmVnYXRpdmUgIiArIHdvcmRzKTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD94bWwgID8+</text>
+        <text encoding="base64">ICAgICBpZiAobm9uUG9zaXRpdmVOdW0uZXF1YWxzKEJpZ0ludGVnZXIuWkVSTykpIEFzc2VydC5hc3NlcnRFcXVhbHModG9Xb3Jkcyhub25Qb3NpdGl2ZU51bSksIHdvcmRzKTsKICAgICAgZWxzZSBBc3NlcnQuYXNzZXJ0RXF1YWxzKHRvV29yZHMobm9uUG9zaXRpdmVOdW0pLCAibmVnYXRpdmUgIiArIHdvcmRzKTs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5BbGxBcmdzQ29uc3RydWN0b3I7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICBpZiAobm9uUG9zaXRpdmVOdW1iZXIgPT0gMCkgQXNzZXJ0LmFzc2VydEVxdWFscyh0b1dvcmRzKG5vblBvc2l0aXZlTnVtYmVyKSwgd29yZHMpOwogICAgICBlbHNlIEFzc2VydC5hc3NlcnRFcXVhbHModG9Xb3Jkcyhub25Qb3NpdGl2ZU51bWJlciksICJuZWdhdGl2ZSAiICsgd29yZHMpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
+        <text encoding="base64">ICAgIGludGVnZXIgPSBuZXcgSW50ZWdlclRvV29yZHNPYmplY3RPcmllbnRlZCgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IDxtZXRob2Qtc2VsZWN0b3JzPgogICAgICA8bWV0aG9kLXNlbGVjdG9yPgogICAgICAgIDxzY3JpcHQgbGFuZ3VhZ2U9ImJlYW5zaGVsbCI+PCFbQ0RBVEFbCiAgICAgICAgbWV0aG9kLmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpLmNvbnRhaW5zKCJVbml0VGVzdCIpOwogICAgICAgXV0+PC9zY3JpcHQ+CiAgICAgIDwvbWV0aG9kLXNlbGVjdG9yPgogICAgPC9tZXRob2Qtc2VsZWN0b3JzPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uanZuLkludGVnZXJUb1dvcmRzRnVuY3Rpb25hbC50b1dvcmRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5BbGxBcmdzQ29uc3RydWN0b3I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuRGF0YVByb3ZpZGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5CdWlsZGVyOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGludCBtaW4gPSAwOwogICAgaW50IG1heCA9IEludGVnZXJUb1dvcmRzQ29uc3RhbnRzLlBMQUNFX01BUC5zaXplKCk7CiAgICBpZiAoaW50ZWdlciA8IG1pbiB8fCBpbnRlZ2VyID4gbWF4KSB7CiAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiSW5wdXQgYXJndW1lbnQgbnVtYmVyIG11c3QgYmUgaW4gcmFuZ2UgWyVkLCAlZF0uIiwgbWluLCBtYXgpKTsKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgaW50IG1pbiA9IDA7CiAgICBpbnQgbWF4ID0gSW50ZWdlclRvV29yZHNDb25zdGFudHMuQkFTRV9NQVAuc2l6ZSgpOwogICAgaWYgKGludGVnZXIgPCBtaW4gfHwgaW50ZWdlciA+IG1heCkgewogICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKFN0cmluZy5mb3JtYXQoIklucHV0IGFyZ3VtZW50IG51bWJlciBtdXN0IGJlIGluIHJhbmdlIFslZCwgJWRdLiIsIG1pbiwgbWF4KSk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uanZuLkludGVnZXJUb1dvcmRzRnVuY3Rpb25hbC50b1dvcmRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuRGF0YVByb3ZpZGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PD94bWwgID8+</text>
+        <text>Assert.assertEquals(toWords((Integer) nonNegativeNumber), words);</text>
       </register>
     </registers>
     <search>
