@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/github/dotfiles/files/shell/aliases.sh" timestamp="1552160797653">
         <mark key="[" line="22" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1558219878571">
+      <file name="/a.dummy" timestamp="1558223952728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/dotfiles/files/global_git_config" timestamp="1552160176141">
@@ -95,6 +95,9 @@
         <mark key="[" line="12" column="27" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/language/SentenceDetection.java" timestamp="1558223734063">
+        <mark key="[" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1551235181351">
         <mark key="[" line="16" column="0" />
