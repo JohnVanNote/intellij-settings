@@ -368,7 +368,6 @@
       <file name="$USER_HOME$/github/resume/LICENSE.md" timestamp="1545680948304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/scripts/install_mariadb.sh" timestamp="1559410127570" />
       <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/main/java/com/jvn/IntegerToWordsFunctional.java" timestamp="1552438328221">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -426,8 +425,8 @@
       <file name="$USER_HOME$/github/resume/resume.properties" timestamp="1551051565029">
         <mark key="[" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/Vagrantfile" timestamp="1559410423619">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/Vagrantfile" timestamp="1559415967836">
+        <mark key="[" line="10" column="76" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
