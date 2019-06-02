@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/github/dotfiles/files/shell/aliases.sh" timestamp="1552160797653">
         <mark key="[" line="22" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1559429982571">
+      <file name="/a.dummy" timestamp="1559435412066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/dotfiles/files/global_git_config" timestamp="1552160176141">
@@ -25,8 +25,8 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/DanielDayLewisQuoteController.java" timestamp="1559097864966">
-        <mark key="[" line="13" column="60" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/DanielDayLewisQuoteController.java" timestamp="1559436322274">
+        <mark key="[" line="14" column="90" />
         <mark key="]" line="13" column="60" />
         <mark key="." line="13" column="60" />
       </file>
@@ -48,6 +48,14 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/TheWireTheGame/pom.xml" timestamp="1508615687526">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/respository/QuoteRepository.java" timestamp="1559437357165">
+        <mark key="[" line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/storage/AbstractJdbcStorageDao.java" timestamp="1559438050314">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testrestservice/docker/docker-compose.yml" timestamp="1558225304833">
         <mark key="[" line="0" column="0" />
@@ -74,6 +82,9 @@
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/requirements.txt" timestamp="1550355519750">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/controller/QuoteController.java" timestamp="1559437653863">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/StorageException.java" timestamp="1559433451701">
         <mark key="[" line="2" column="29" />
       </file>
@@ -96,10 +107,13 @@
         <mark key="]" line="46" column="23" />
         <mark key="." line="46" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/Application.java" timestamp="1559432651277">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/quote/Quote.java" timestamp="1559436961182">
+        <mark key="[" line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/Application.java" timestamp="1559436463070">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/markov-tweetbot/markov.py" timestamp="1550432522621">
         <mark key="[" line="16" column="21" />
@@ -113,8 +127,10 @@
       <file name="$USER_HOME$/IdeaProjects/septa/SeptaStop.py" timestamp="1523227396688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/MySqlStorageDao.java" timestamp="1559434099952">
-        <mark key="[" line="2" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/MySqlStorageDao.java" timestamp="1559435250745">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/MapperFactory.java" timestamp="1551557784969">
         <mark key="[" line="12" column="27" />
@@ -124,8 +140,10 @@
       <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/language/SentenceDetection.java" timestamp="1558223734063">
         <mark key="[" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/StorageDao.java" timestamp="1559434053404">
-        <mark key="[" line="2" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/StorageDao.java" timestamp="1559435381617">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/LatexResume.java" timestamp="1551235181351">
         <mark key="[" line="16" column="0" />
@@ -178,8 +196,10 @@
       <file name="$USER_HOME$/github/floyds-algorithm/floyd.py" timestamp="1509897818921">
         <mark key="[" line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/AbstractJdbcStorageDao.java" timestamp="1559432776162">
-        <mark key="[" line="2" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/AbstractJdbcStorageDao.java" timestamp="1559436580849">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/github/resume/src/test/java/com/jvn/resume/printer/SimplePrinterIntegrationTet.java" timestamp="1547520640311">
         <mark key="[" line="2" column="40" />
@@ -397,8 +417,8 @@
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/printer/AbstractPrinter.java" timestamp="1551665415512">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/db/init_db.sql" timestamp="1559433090198">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/db/init_db.sql" timestamp="1559437272605">
+        <mark key="[" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/integer-to-words/src/test/java/com/jvn/IntegerToWordsFunctional_UnitTest.java" timestamp="1553391375813">
         <mark key="[" line="6" column="0" />
@@ -448,15 +468,21 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testrestservice/pom.xml" timestamp="1559434001349">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/pom.xml" timestamp="1559437569729">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/quote/DanielDayLewisQuote.java" timestamp="1559436968401">
+        <mark key="[" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/section/AbstractSection.java" timestamp="1551665362316">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/resources/application.properties" timestamp="1559437131582">
+        <mark key="[" line="1" column="59" />
       </file>
       <file name="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/item/Experience.java" timestamp="1551668873616">
         <mark key="[" line="9" column="0" />
@@ -482,6 +508,7 @@
       <file name="/fragment.java" timestamp="1544481615699">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testrestservice/src/main/java/com/jvn/api/StorageFactory.java" timestamp="1559435419858" />
     </filemarks>
     <jumps>
       <jump line="20" column="120" filename="$USER_HOME$/github/resume/src/main/java/com/jvn/resume/Main.java" />
@@ -490,40 +517,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLmNvbW1vbnMvY29tbW9ucy1sYW5nMyAtLT4K</text>
+        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9qYXZheC5wZXJzaXN0ZW5jZS9qYXZheC5wZXJzaXN0ZW5jZS1hcGkgLS0+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLmNvbW1vbnMvY29tbW9ucy1sYW5nMyAtLT4K</text>
+      <register name="&quot;" type="4">
+        <text>QUOTE</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbm5lY3Rpb24gPSBjb25uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSW5wdXRTdHJlYW1SZWFkZXI7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgRmlsZSgiLiIpLmdldEFic29sdXRlUGF0aCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YSAtLT4K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAjY29uZmlnLnZtLnN5bmNlZF9mb2xkZXIgIi4iLCAiL3ZhZ3JhbnQiLCA6bW91bnRfb3B0aW9ucyA9PiBbImRtb2RlPTc3NyIsICJmbW9kZT02NjYiXQo=</text>
+        <text encoding="base64">ICAgICAgQ29ubmVjdGlvbiBjb25uZWN0aW9uID0gU3RvcmFnZUZhY3RvcnkuZ2V0U3RvcmFnZShkYlByb3BzKTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICNjb25maWcudm0uYm94ID0gImJlbnRvL2NlbnRvcy03LjIiCiAgICAgI2NvbmZpZy52bS5ib3ggPSAiY2VudG9zLzci</text>
+        <text encoding="base64">ICBkZWZhdWx0OgogICAgICAgICAgdGhyb3cgbmV3IFN0b3JhZ2VFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiTm8gYmVoYXZpb3IgZGVmaW5lZCBmb3IgdHlwZSAlcyIsIHR5cGUpKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICBjb25maWcudmJndWVzdC5hdXRvX3VwZGF0ZSA9IHRydWUK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBzd2l0Y2ggKHR5cGUpIHsKICAgICAgICBjYXNlICJNeVNxbCI6</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBjb25maWcudm0uc3luY2VkX2ZvbGRlciAiLiIsICIvdmFncmFudCIsIDptb3VudF9vcHRpb25zID0+IFsiZG1vZGU9Nzc3IiwgImZtb2RlPTY2NiJdCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5qdm4ucXVvdGUuRGFuaWVsRGF5TGV3aXNRdW90ZTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Imluc3RhbGwtZG9ja2VyIiwgdHlwZToic2hlbGwiLCBpbmxpbmU6IDw8LVNIRUxMCiAgICAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIGFwdC10cmFuc3BvcnQtaHR0cHMgY2EtY2VydGlmaWNhdGVzIGN1cmwgc29mdHdhcmUtcHJvcGVydGllcy1jb21tb24KICAgICAgY3VybCAtZnNTTCBodHRwczovL2Rvd25sb2FkLmRvY2tlci5jb20vbGludXgvdWJ1bnR1L2dwZyB8IHN1ZG8gYXB0LWtleSBhZGQgLQogICAgICBzdWRvIGFkZC1hcHQtcmVwb3NpdG9yeSAiZGViIFthcmNoPWFtZDY0XSBodHRwczovL2Rvd25sb2FkLmRvY2tlci5jb20vbGludXgvdWJ1bnR1ICQobHNiX3JlbGVhc2UgLWNzKSBzdGFibGUiCiAgICAgIHN1ZG8gYXB0LWdldCB1cGRhdGUKICAgICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgZG9ja2VyLWNlCiAgICBTSEVMTA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLlF1bzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>FileNotFoundException</text>
+        <text>QUOTE</text>
       </register>
     </registers>
     <search>
